@@ -30,8 +30,6 @@ class Solution:
         # find min edge in the connected component that contains node 1 and node n
 
         dsu = DSU(N)
-        components = defaultdict(set) # {label : nodes}
-        label = 0
         for (u, v, cost) in roads:
             dsu.union(u, v)
 
