@@ -193,8 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/slavah8/leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
