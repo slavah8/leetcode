@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
+| [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
 | [0881-loud-and-rich](https://github.com/slavah8/leetcode/tree/master/0881-loud-and-rich) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
