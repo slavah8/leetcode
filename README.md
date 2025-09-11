@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/slavah8/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Binary Indexed Tree
 |  |
@@ -253,4 +255,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Prefix Sum
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
