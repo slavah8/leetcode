@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/slavah8/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
 | [1242-matrix-block-sum](https://github.com/slavah8/leetcode/tree/master/1242-matrix-block-sum) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Counting
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
