@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
+| [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
+| [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
