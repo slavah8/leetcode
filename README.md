@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/slavah8/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
