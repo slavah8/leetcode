@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/slavah8/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/slavah8/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Brainteaser
 |  |
 | ------- |
