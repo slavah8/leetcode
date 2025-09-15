@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/slavah8/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
