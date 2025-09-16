@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Quickselect
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Binary Search Tree
 |  |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -407,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/slavah8/leetcode/tree/master/2714-left-and-right-sum-differences) |
