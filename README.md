@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/slavah8/leetcode/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/slavah8/leetcode/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/slavah8/leetcode/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/slavah8/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
