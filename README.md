@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
