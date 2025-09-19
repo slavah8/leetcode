@@ -6,6 +6,6 @@ BEGIN
     SELECT DISTINCT salary
     FROM Employee
     ORDER BY salary DESC
-    LIMIT skip, 1
+    LIMIT 1 OFFSET skip
   );
 END;
