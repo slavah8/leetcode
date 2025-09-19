@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/slavah8/leetcode/tree/master/0197-rising-temperature) |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/slavah8/leetcode/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/slavah8/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/slavah8/leetcode/tree/master/0619-biggest-single-number) |
