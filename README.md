@@ -543,5 +543,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/slavah8/leetcode/tree/master/1174-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/slavah8/leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/slavah8/leetcode/tree/master/1301-reformat-department-table) |
+| [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
 <!---LeetCode Topics End-->
