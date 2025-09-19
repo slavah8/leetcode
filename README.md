@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/slavah8/leetcode/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/slavah8/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1153-product-sales-analysis-i](https://github.com/slavah8/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1154-product-sales-analysis-ii](https://github.com/slavah8/leetcode/tree/master/1154-product-sales-analysis-ii) |
 | [1155-product-sales-analysis-iii](https://github.com/slavah8/leetcode/tree/master/1155-product-sales-analysis-iii) |
