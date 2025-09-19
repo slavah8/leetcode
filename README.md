@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1153-product-sales-analysis-i](https://github.com/slavah8/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/slavah8/leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/slavah8/leetcode/tree/master/1301-reformat-department-table) |
 <!---LeetCode Topics End-->
