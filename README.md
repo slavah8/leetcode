@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/slavah8/leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/slavah8/leetcode/tree/master/1301-reformat-department-table) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/slavah8/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1439-running-total-for-different-genders](https://github.com/slavah8/leetcode/tree/master/1439-running-total-for-different-genders) |
 | [1801-average-time-of-process-per-machine](https://github.com/slavah8/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
