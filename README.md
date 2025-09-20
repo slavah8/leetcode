@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/slavah8/leetcode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/slavah8/leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/slavah8/leetcode/tree/master/1301-reformat-department-table) |
+| [1801-average-time-of-process-per-machine](https://github.com/slavah8/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
 <!---LeetCode Topics End-->
