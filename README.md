@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1163-project-employees-iii](https://github.com/slavah8/leetcode/tree/master/1163-project-employees-iii) |
 | [1174-sales-analysis-iii](https://github.com/slavah8/leetcode/tree/master/1174-sales-analysis-iii) |
 | [1204-new-users-daily-count](https://github.com/slavah8/leetcode/tree/master/1204-new-users-daily-count) |
+| [1214-highest-grade-for-each-student](https://github.com/slavah8/leetcode/tree/master/1214-highest-grade-for-each-student) |
 | [1225-active-businesses](https://github.com/slavah8/leetcode/tree/master/1225-active-businesses) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/slavah8/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/slavah8/leetcode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
