@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1495-number-of-trusted-contacts-of-a-customer](https://github.com/slavah8/leetcode/tree/master/1495-number-of-trusted-contacts-of-a-customer) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/slavah8/leetcode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1801-average-time-of-process-per-machine](https://github.com/slavah8/leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/slavah8/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
 <!---LeetCode Topics End-->
