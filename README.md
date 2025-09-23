@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/slavah8/leetcode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/slavah8/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1301-reformat-department-table](https://github.com/slavah8/leetcode/tree/master/1301-reformat-department-table) |
+| [1317-monthly-transactions-i](https://github.com/slavah8/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/slavah8/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1339-team-scores-in-football-tournament](https://github.com/slavah8/leetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1439-running-total-for-different-genders](https://github.com/slavah8/leetcode/tree/master/1439-running-total-for-different-genders) |
