@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/slavah8/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/slavah8/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1339-team-scores-in-football-tournament](https://github.com/slavah8/leetcode/tree/master/1339-team-scores-in-football-tournament) |
+| [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/slavah8/leetcode/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1439-running-total-for-different-genders](https://github.com/slavah8/leetcode/tree/master/1439-running-total-for-different-genders) |
 | [1452-restaurant-growth](https://github.com/slavah8/leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/slavah8/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
