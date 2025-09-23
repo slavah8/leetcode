@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/slavah8/leetcode/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/slavah8/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/slavah8/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/slavah8/leetcode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/slavah8/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/slavah8/leetcode/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/slavah8/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
