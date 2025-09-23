@@ -582,5 +582,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/slavah8/leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1958-ad-free-sessions](https://github.com/slavah8/leetcode/tree/master/1958-ad-free-sessions) |
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/slavah8/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
 <!---LeetCode Topics End-->
