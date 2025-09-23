@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/slavah8/leetcode/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/slavah8/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0603-consecutive-available-seats](https://github.com/slavah8/leetcode/tree/master/0603-consecutive-available-seats) |
+| [0614-second-degree-follower](https://github.com/slavah8/leetcode/tree/master/0614-second-degree-follower) |
 | [0619-biggest-single-number](https://github.com/slavah8/leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/slavah8/leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/slavah8/leetcode/tree/master/0627-swap-salary) |
