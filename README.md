@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/slavah8/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/slavah8/leetcode/tree/master/1480-movie-rating) |
 | [1481-students-with-invalid-departments](https://github.com/slavah8/leetcode/tree/master/1481-students-with-invalid-departments) |
+| [1495-number-of-trusted-contacts-of-a-customer](https://github.com/slavah8/leetcode/tree/master/1495-number-of-trusted-contacts-of-a-customer) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/slavah8/leetcode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1801-average-time-of-process-per-machine](https://github.com/slavah8/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
