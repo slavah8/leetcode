@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/slavah8/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/slavah8/leetcode/tree/master/0177-nth-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/slavah8/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/slavah8/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/slavah8/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0580-count-student-number-in-departments](https://github.com/slavah8/leetcode/tree/master/0580-count-student-number-in-departments) |
