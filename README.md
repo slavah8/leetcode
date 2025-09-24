@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/slavah8/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/slavah8/leetcode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/slavah8/leetcode/tree/master/1258-article-views-i) |
+| [1259-article-views-ii](https://github.com/slavah8/leetcode/tree/master/1259-article-views-ii) |
 | [1268-market-analysis-i](https://github.com/slavah8/leetcode/tree/master/1268-market-analysis-i) |
 | [1269-market-analysis-ii](https://github.com/slavah8/leetcode/tree/master/1269-market-analysis-ii) |
 | [1278-product-price-at-a-given-date](https://github.com/slavah8/leetcode/tree/master/1278-product-price-at-a-given-date) |
