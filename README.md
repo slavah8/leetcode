@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/slavah8/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0571-find-median-given-frequency-of-numbers](https://github.com/slavah8/leetcode/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0574-winning-candidate](https://github.com/slavah8/leetcode/tree/master/0574-winning-candidate) |
+| [0578-get-highest-answer-rate-question](https://github.com/slavah8/leetcode/tree/master/0578-get-highest-answer-rate-question) |
 | [0580-count-student-number-in-departments](https://github.com/slavah8/leetcode/tree/master/0580-count-student-number-in-departments) |
 | [0585-investments-in-2016](https://github.com/slavah8/leetcode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/slavah8/leetcode/tree/master/0596-classes-with-at-least-5-students) |
