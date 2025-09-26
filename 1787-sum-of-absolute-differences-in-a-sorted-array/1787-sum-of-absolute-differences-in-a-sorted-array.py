@@ -14,7 +14,7 @@ class Solution:
         for i in range(N):
             left_size = i
             right_size = N - i - 1
-            left = i * nums[i] - prefix[i]
+            left = (i * nums[i]) - prefix[i]
             right = (total - prefix[i + 1]) - (right_size * nums[i])
             result.append(left + right)
         return result
