@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
+| [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/slavah8/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
