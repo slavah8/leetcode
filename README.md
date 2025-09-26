@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/slavah8/leetcode/tree/master/1803-average-waiting-time) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/slavah8/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
