@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/slavah8/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/slavah8/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0370-range-addition](https://github.com/slavah8/leetcode/tree/master/0370-range-addition) |
+| [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
