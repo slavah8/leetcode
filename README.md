@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/slavah8/leetcode/tree/master/0881-loud-and-rich) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/slavah8/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/slavah8/leetcode/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
+| [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/slavah8/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1101-parallel-courses](https://github.com/slavah8/leetcode/tree/master/1101-parallel-courses) |
+| [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0881-loud-and-rich](https://github.com/slavah8/leetcode/tree/master/0881-loud-and-rich) |
 | [1101-parallel-courses](https://github.com/slavah8/leetcode/tree/master/1101-parallel-courses) |
+| [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 ## Hash Table
 |  |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
