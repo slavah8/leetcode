@@ -25,7 +25,7 @@ class Solution:
             if right - left + 1 == ones and left < N:
                 ans = min(ans, zeroes_in_window)
 
-            if left > N:
+            if left >= N:
                 break
         return ans
             
