@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/slavah8/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/slavah8/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
