@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
