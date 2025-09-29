@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/slavah8/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/slavah8/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2751-sliding-subarray-beauty](https://github.com/slavah8/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/slavah8/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2890-count-substrings-without-repeating-character](https://github.com/slavah8/leetcode/tree/master/2890-count-substrings-without-repeating-character) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2751-sliding-subarray-beauty](https://github.com/slavah8/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/slavah8/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -750,4 +754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
+## Stack
+|  |
+| ------- |
+| [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 <!---LeetCode Topics End-->
