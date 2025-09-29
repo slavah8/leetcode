@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0727-minimum-window-subsequence](https://github.com/slavah8/leetcode/tree/master/0727-minimum-window-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0727-minimum-window-subsequence](https://github.com/slavah8/leetcode/tree/master/0727-minimum-window-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
