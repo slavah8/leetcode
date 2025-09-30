@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1066-fixed-point](https://github.com/slavah8/leetcode/tree/master/1066-fixed-point) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/slavah8/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/slavah8/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
+| [1066-fixed-point](https://github.com/slavah8/leetcode/tree/master/1066-fixed-point) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
