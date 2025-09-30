@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 ## Stack
