@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/slavah8/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1646-kth-missing-positive-number](https://github.com/slavah8/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
