@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/slavah8/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -768,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 ## Stack
