@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0436-find-right-interval](https://github.com/slavah8/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/slavah8/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/slavah8/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/slavah8/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/slavah8/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/slavah8/leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/slavah8/leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/slavah8/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
