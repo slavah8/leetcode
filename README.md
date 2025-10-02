@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/slavah8/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
+| [3259-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/3259-binary-tree-nodes) |
 ## Monotonic Queue
 |  |
 | ------- |
