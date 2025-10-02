@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/slavah8/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/slavah8/leetcode/tree/master/0367-valid-perfect-square) |
