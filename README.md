@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/slavah8/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/slavah8/leetcode/tree/master/1523-capital-gainloss) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/slavah8/leetcode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
+| [1578-apples-oranges](https://github.com/slavah8/leetcode/tree/master/1578-apples-oranges) |
 | [1608-calculate-salaries](https://github.com/slavah8/leetcode/tree/master/1608-calculate-salaries) |
 | [1623-sales-by-day-of-the-week](https://github.com/slavah8/leetcode/tree/master/1623-sales-by-day-of-the-week) |
 | [1664-find-users-with-valid-e-mails](https://github.com/slavah8/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
