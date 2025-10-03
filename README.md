@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
+| [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-maximum-running-time-of-n-computers](https://github.com/slavah8/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Binary Search Tree
 |  |
