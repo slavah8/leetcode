@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/slavah8/leetcode/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/slavah8/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1066-fixed-point](https://github.com/slavah8/leetcode/tree/master/1066-fixed-point) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/slavah8/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
