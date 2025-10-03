@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2665-minimum-time-to-repair-cars](https://github.com/slavah8/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
+| [2665-minimum-time-to-repair-cars](https://github.com/slavah8/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
