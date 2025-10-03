@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/slavah8/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2294-minimum-time-to-complete-trips](https://github.com/slavah8/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/slavah8/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
+| [2294-minimum-time-to-complete-trips](https://github.com/slavah8/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/slavah8/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
