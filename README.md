@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/slavah8/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0727-minimum-window-subsequence](https://github.com/slavah8/leetcode/tree/master/0727-minimum-window-subsequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0727-minimum-window-subsequence](https://github.com/slavah8/leetcode/tree/master/0727-minimum-window-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Database
 |  |
 | ------- |
@@ -912,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
