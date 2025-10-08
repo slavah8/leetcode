@@ -6,7 +6,7 @@ class Solution:
         for x in arr:
             if x in pos:
                 idx_seq.append(pos[x])
-        print(idx_seq)
+        
 
         tails = []
 
