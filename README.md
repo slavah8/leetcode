@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/slavah8/leetcode/tree/master/1803-average-waiting-time) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/slavah8/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/slavah8/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/slavah8/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
