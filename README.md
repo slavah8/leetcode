@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/slavah8/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/slavah8/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/slavah8/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
+| [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 ## Hash Function
 |  |
