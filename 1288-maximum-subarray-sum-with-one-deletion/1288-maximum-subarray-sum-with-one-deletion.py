@@ -3,8 +3,8 @@ class Solution:
         # dp[i] = max subarray sum up to index i with one deletion
         N = len(arr)
         INF = 10 ** 10
-        dp0 = [0] * N  # max subarray sum up to index i without deletion
-        dp1 = [0] * N # max subarray sum up to index i with deletion
+        dp0 = [0] * N  # best sum ending at i with no deletion
+        dp1 = [0] * N # best sum ending at i with exactly one deletion
         dp0[0] = arr[0]
         dp1[0] = -INF
         
