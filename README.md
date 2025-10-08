@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/slavah8/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/slavah8/leetcode/tree/master/0878-shifting-letters) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/slavah8/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
