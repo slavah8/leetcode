@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/slavah8/leetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/slavah8/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 ## Sliding Window
