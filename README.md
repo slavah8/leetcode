@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
+| [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1206-corporate-flight-bookings](https://github.com/slavah8/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/slavah8/leetcode/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1122-longest-duplicate-substring](https://github.com/slavah8/leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
+| [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/slavah8/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 ## Hash Function
 |  |
