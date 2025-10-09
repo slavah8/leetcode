@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0261-graph-valid-tree](https://github.com/slavah8/leetcode/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
+| [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/slavah8/leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/slavah8/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/slavah8/leetcode/tree/master/0441-arranging-coins) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0354-russian-doll-envelopes](https://github.com/slavah8/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
