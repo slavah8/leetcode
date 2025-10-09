@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
+| [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/slavah8/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/slavah8/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
+| [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 ## Sliding Window
 |  |
