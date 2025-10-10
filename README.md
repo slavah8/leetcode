@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/slavah8/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1130-last-stone-weight-ii](https://github.com/slavah8/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1130-last-stone-weight-ii](https://github.com/slavah8/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1170-shortest-common-supersequence](https://github.com/slavah8/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1178-valid-palindrome-iii](https://github.com/slavah8/leetcode/tree/master/1178-valid-palindrome-iii) |
