@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/slavah8/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2468-valid-palindrome-iv](https://github.com/slavah8/leetcode/tree/master/2468-valid-palindrome-iv) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/slavah8/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/slavah8/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2468-valid-palindrome-iv](https://github.com/slavah8/leetcode/tree/master/2468-valid-palindrome-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
