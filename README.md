@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/slavah8/leetcode/tree/master/0367-valid-perfect-square) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/slavah8/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0400-nth-digit](https://github.com/slavah8/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/slavah8/leetcode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/slavah8/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/slavah8/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/slavah8/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/slavah8/leetcode/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/slavah8/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/slavah8/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
