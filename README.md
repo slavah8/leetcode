@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/slavah8/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1685-stone-game-v](https://github.com/slavah8/leetcode/tree/master/1685-stone-game-v) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/slavah8/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/slavah8/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/slavah8/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1685-stone-game-v](https://github.com/slavah8/leetcode/tree/master/1685-stone-game-v) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/slavah8/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1685-stone-game-v](https://github.com/slavah8/leetcode/tree/master/1685-stone-game-v) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/slavah8/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/slavah8/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/slavah8/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/slavah8/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
+| [1685-stone-game-v](https://github.com/slavah8/leetcode/tree/master/1685-stone-game-v) |
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
