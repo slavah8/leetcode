@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/slavah8/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [4041-climbing-stairs-ii](https://github.com/slavah8/leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/slavah8/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [4041-climbing-stairs-ii](https://github.com/slavah8/leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
