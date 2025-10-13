@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/slavah8/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/slavah8/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-largest-1-bordered-square](https://github.com/slavah8/leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/slavah8/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/slavah8/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
