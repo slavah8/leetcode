@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
+| [0293-flip-game](https://github.com/slavah8/leetcode/tree/master/0293-flip-game) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/slavah8/leetcode/tree/master/0474-ones-and-zeroes) |
