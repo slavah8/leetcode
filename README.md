@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-largest-1-bordered-square](https://github.com/slavah8/leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1242-matrix-block-sum](https://github.com/slavah8/leetcode/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/slavah8/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
+| [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-palindrome-removal](https://github.com/slavah8/leetcode/tree/master/1202-palindrome-removal) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/slavah8/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1239-largest-1-bordered-square](https://github.com/slavah8/leetcode/tree/master/1239-largest-1-bordered-square) |
+| [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/slavah8/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/slavah8/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1122-longest-duplicate-substring](https://github.com/slavah8/leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/slavah8/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -993,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
@@ -1117,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
