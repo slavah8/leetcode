@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0161-one-edit-distance](https://github.com/slavah8/leetcode/tree/master/0161-one-edit-distance) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
 | [0293-flip-game](https://github.com/slavah8/leetcode/tree/master/0293-flip-game) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/slavah8/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/slavah8/leetcode/tree/master/0086-partition-list) |
+| [0161-one-edit-distance](https://github.com/slavah8/leetcode/tree/master/0161-one-edit-distance) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0475-heaters](https://github.com/slavah8/leetcode/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
