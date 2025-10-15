@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/slavah8/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2045-cutting-ribbons](https://github.com/slavah8/leetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/slavah8/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3905-partition-string](https://github.com/slavah8/leetcode/tree/master/3905-partition-string) |
 ## Interactive
