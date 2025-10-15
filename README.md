@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/slavah8/leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Math
 |  |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/slavah8/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3905-partition-string](https://github.com/slavah8/leetcode/tree/master/3905-partition-string) |
