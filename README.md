@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1028-interval-list-intersections](https://github.com/slavah8/leetcode/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1059-missing-element-in-sorted-array](https://github.com/slavah8/leetcode/tree/master/1059-missing-element-in-sorted-array) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1028-interval-list-intersections](https://github.com/slavah8/leetcode/tree/master/1028-interval-list-intersections) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -1286,4 +1288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/slavah8/leetcode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
