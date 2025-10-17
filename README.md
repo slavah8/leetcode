@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/slavah8/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1617-stone-game-iv](https://github.com/slavah8/leetcode/tree/master/1617-stone-game-iv) |
