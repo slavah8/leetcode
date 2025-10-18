@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/slavah8/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3806-maximum-coin-collection](https://github.com/slavah8/leetcode/tree/master/3806-maximum-coin-collection) |
 | [3836-phone-number-prefix](https://github.com/slavah8/leetcode/tree/master/3836-phone-number-prefix) |
 | [4041-climbing-stairs-ii](https://github.com/slavah8/leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Sorting
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/slavah8/leetcode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
+| [3806-maximum-coin-collection](https://github.com/slavah8/leetcode/tree/master/3806-maximum-coin-collection) |
 | [4041-climbing-stairs-ii](https://github.com/slavah8/leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Sliding Window
 |  |
