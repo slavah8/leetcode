@@ -807,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/slavah8/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/slavah8/leetcode/tree/master/0464-can-i-win) |
 | [0633-sum-of-square-numbers](https://github.com/slavah8/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/slavah8/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/slavah8/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0826-soup-servings](https://github.com/slavah8/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/slavah8/leetcode/tree/master/0867-new-21-game) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/slavah8/leetcode/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/slavah8/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0650-2-keys-keyboard](https://github.com/slavah8/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/slavah8/leetcode/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/slavah8/leetcode/tree/master/0688-knight-probability-in-chessboard) |
