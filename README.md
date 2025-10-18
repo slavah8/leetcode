@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1343-dice-roll-simulation](https://github.com/slavah8/leetcode/tree/master/1343-dice-roll-simulation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/slavah8/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
+| [1343-dice-roll-simulation](https://github.com/slavah8/leetcode/tree/master/1343-dice-roll-simulation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
