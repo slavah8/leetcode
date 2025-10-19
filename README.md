@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/slavah8/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/slavah8/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0354-russian-doll-envelopes](https://github.com/slavah8/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/slavah8/leetcode/tree/master/0436-find-right-interval) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/slavah8/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/slavah8/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/slavah8/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/slavah8/leetcode/tree/master/0086-partition-list) |
 | [0161-one-edit-distance](https://github.com/slavah8/leetcode/tree/master/0161-one-edit-distance) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0277-find-the-celebrity](https://github.com/slavah8/leetcode/tree/master/0277-find-the-celebrity) |
 | [0455-assign-cookies](https://github.com/slavah8/leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/slavah8/leetcode/tree/master/0475-heaters) |
