@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/slavah8/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-sum-of-distances-in-tree](https://github.com/slavah8/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Union Find
@@ -1347,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -1409,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 ## Line Sweep
 |  |
@@ -1421,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
