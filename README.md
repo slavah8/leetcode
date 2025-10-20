@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/slavah8/leetcode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
+| [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0656-coin-path](https://github.com/slavah8/leetcode/tree/master/0656-coin-path) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/slavah8/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/slavah8/leetcode/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0664-strange-printer](https://github.com/slavah8/leetcode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0727-minimum-window-subsequence](https://github.com/slavah8/leetcode/tree/master/0727-minimum-window-subsequence) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
@@ -1220,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1380,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [1764-maximum-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/slavah8/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
