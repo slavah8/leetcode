@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [1985-maximum-subarray-min-product](https://github.com/slavah8/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/slavah8/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
@@ -1150,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-maximum-subarray-min-product](https://github.com/slavah8/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
@@ -1384,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/slavah8/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/slavah8/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1985-maximum-subarray-min-product](https://github.com/slavah8/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/slavah8/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/slavah8/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
@@ -1467,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/slavah8/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1985-maximum-subarray-min-product](https://github.com/slavah8/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/slavah8/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/slavah8/leetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
