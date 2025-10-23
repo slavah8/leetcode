@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/slavah8/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1178-valid-palindrome-iii](https://github.com/slavah8/leetcode/tree/master/1178-valid-palindrome-iii) |
+| [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/slavah8/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
+| [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
@@ -1502,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
 | [3780-permutations-iii](https://github.com/slavah8/leetcode/tree/master/3780-permutations-iii) |
 ## Bitmask
 |  |
@@ -1549,4 +1552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/slavah8/leetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+## Iterator
+|  |
+| ------- |
+| [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
 <!---LeetCode Topics End-->
