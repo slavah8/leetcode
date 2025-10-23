@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/slavah8/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/slavah8/leetcode/tree/master/0878-shifting-letters) |
+| [0879-maximize-distance-to-closest-person](https://github.com/slavah8/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0881-loud-and-rich](https://github.com/slavah8/leetcode/tree/master/0881-loud-and-rich) |
 | [0911-profitable-schemes](https://github.com/slavah8/leetcode/tree/master/0911-profitable-schemes) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
