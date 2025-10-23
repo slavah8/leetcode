@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/slavah8/leetcode/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
 | [0343-integer-break](https://github.com/slavah8/leetcode/tree/master/0343-integer-break) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/slavah8/leetcode/tree/master/0089-gray-code) |
 | [0464-can-i-win](https://github.com/slavah8/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1503,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/slavah8/leetcode/tree/master/0089-gray-code) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
