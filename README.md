@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/slavah8/leetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/slavah8/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/slavah8/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Binary Indexed Tree
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/slavah8/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Simulation
@@ -1283,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/slavah8/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
