@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/slavah8/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/slavah8/leetcode/tree/master/1685-stone-game-v) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/slavah8/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/slavah8/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/slavah8/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/slavah8/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/slavah8/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/slavah8/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -940,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/slavah8/leetcode/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/slavah8/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/slavah8/leetcode/tree/master/1685-stone-game-v) |
 | [1761-count-sorted-vowel-strings](https://github.com/slavah8/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -1288,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/slavah8/leetcode/tree/master/1617-stone-game-iv) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/slavah8/leetcode/tree/master/1685-stone-game-v) |
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
