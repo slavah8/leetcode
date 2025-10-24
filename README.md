@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/slavah8/leetcode/tree/master/0978-valid-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
+| [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/slavah8/leetcode/tree/master/0953-reverse-only-letters) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/slavah8/leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0977-distinct-subsequences-ii](https://github.com/slavah8/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1051-shortest-way-to-form-string](https://github.com/slavah8/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/slavah8/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -1528,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0834-ambiguous-coordinates](https://github.com/slavah8/leetcode/tree/master/0834-ambiguous-coordinates) |
+| [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/slavah8/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -1566,6 +1569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0834-ambiguous-coordinates](https://github.com/slavah8/leetcode/tree/master/0834-ambiguous-coordinates) |
 | [0875-longest-mountain-in-array](https://github.com/slavah8/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Monotonic Stack
