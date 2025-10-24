@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/slavah8/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
+| [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/slavah8/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/slavah8/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/slavah8/leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1613,4 +1617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
