@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/slavah8/leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/slavah8/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/slavah8/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/slavah8/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/slavah8/leetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2118-maximum-earnings-from-taxi](https://github.com/slavah8/leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -1359,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/slavah8/leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -1621,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/slavah8/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
