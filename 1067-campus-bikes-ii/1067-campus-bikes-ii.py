@@ -13,6 +13,7 @@ class Solution:
         print(dist)
 
         # dp(mask) = minimum total distance after assigning bikes in mask to the first popcount(mask) workers.
+        @lru_cache(None)
         def dp(mask):
             i = mask.bit_count() # next worker index (0 .. n)
             if i == N:
@@ -25,6 +26,5 @@ class Solution:
                 best = min(best, dist[i][j] + dp(mask | (1 << j)))
             return best
             
-
         
         return dp(0)
