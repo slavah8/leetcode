@@ -15,6 +15,7 @@ class Solution:
         print(score)
 
         # dp[mask] : maximum total compatibility for assigning mentors in mask to the first popcount(mask) students
+        @lru_cache(None)
         def dp(mask):
             i = mask.bit_count() # next student index
             if i == len(students):
