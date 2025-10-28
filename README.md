@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3836-phone-number-prefix](https://github.com/slavah8/leetcode/tree/master/3836-phone-number-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/slavah8/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3905-partition-string](https://github.com/slavah8/leetcode/tree/master/3905-partition-string) |
+| [3911-find-the-shortest-superstring-ii](https://github.com/slavah8/leetcode/tree/master/3911-find-the-shortest-superstring-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
