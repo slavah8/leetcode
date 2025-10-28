@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/slavah8/leetcode/tree/master/0978-valid-mountain-array) |
+| [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/slavah8/leetcode/tree/master/0953-reverse-only-letters) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/slavah8/leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0977-distinct-subsequences-ii](https://github.com/slavah8/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1051-shortest-way-to-form-string](https://github.com/slavah8/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/slavah8/leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/slavah8/leetcode/tree/master/0977-distinct-subsequences-ii) |
+| [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1020-longest-turbulent-subarray](https://github.com/slavah8/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
@@ -1367,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/slavah8/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1067-campus-bikes-ii](https://github.com/slavah8/leetcode/tree/master/1067-campus-bikes-ii) |
@@ -1647,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/slavah8/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1067-campus-bikes-ii](https://github.com/slavah8/leetcode/tree/master/1067-campus-bikes-ii) |
 | [1220-smallest-sufficient-team](https://github.com/slavah8/leetcode/tree/master/1220-smallest-sufficient-team) |
