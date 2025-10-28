@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/slavah8/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
+| [0346-moving-average-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/slavah8/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0370-range-addition](https://github.com/slavah8/leetcode/tree/master/0370-range-addition) |
 | [0377-combination-sum-iv](https://github.com/slavah8/leetcode/tree/master/0377-combination-sum-iv) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/slavah8/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/slavah8/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
@@ -1427,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1742,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/slavah8/leetcode/tree/master/0359-logger-rate-limiter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Geometry
