@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1101-parallel-courses](https://github.com/slavah8/leetcode/tree/master/1101-parallel-courses) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1184,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/slavah8/leetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/slavah8/leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -1390,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -1662,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-minimum-incompatibility](https://github.com/slavah8/leetcode/tree/master/1799-minimum-incompatibility) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
