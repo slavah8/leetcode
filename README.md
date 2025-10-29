@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/slavah8/leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/slavah8/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/slavah8/leetcode/tree/master/0245-shortest-word-distance-iii) |
+| [0266-palindrome-permutation](https://github.com/slavah8/leetcode/tree/master/0266-palindrome-permutation) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
 | [0293-flip-game](https://github.com/slavah8/leetcode/tree/master/0293-flip-game) |
 | [0306-additive-number](https://github.com/slavah8/leetcode/tree/master/0306-additive-number) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/slavah8/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0244-shortest-word-distance-ii](https://github.com/slavah8/leetcode/tree/master/0244-shortest-word-distance-ii) |
+| [0266-palindrome-permutation](https://github.com/slavah8/leetcode/tree/master/0266-palindrome-permutation) |
 | [0311-sparse-matrix-multiplication](https://github.com/slavah8/leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/slavah8/leetcode/tree/master/0089-gray-code) |
+| [0266-palindrome-permutation](https://github.com/slavah8/leetcode/tree/master/0266-palindrome-permutation) |
 | [0464-can-i-win](https://github.com/slavah8/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
