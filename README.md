@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-permutations-iii](https://github.com/slavah8/leetcode/tree/master/3780-permutations-iii) |
 | [3806-maximum-coin-collection](https://github.com/slavah8/leetcode/tree/master/3806-maximum-coin-collection) |
 | [3836-phone-number-prefix](https://github.com/slavah8/leetcode/tree/master/3836-phone-number-prefix) |
+| [3855-make-a-positive-array](https://github.com/slavah8/leetcode/tree/master/3855-make-a-positive-array) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 | [4041-climbing-stairs-ii](https://github.com/slavah8/leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Sorting
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3855-make-a-positive-array](https://github.com/slavah8/leetcode/tree/master/3855-make-a-positive-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/slavah8/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/slavah8/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3855-make-a-positive-array](https://github.com/slavah8/leetcode/tree/master/3855-make-a-positive-array) |
 ## Brainteaser
 |  |
 | ------- |
