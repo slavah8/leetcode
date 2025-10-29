@@ -1043,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/slavah8/leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/slavah8/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/slavah8/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
@@ -1469,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/slavah8/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/slavah8/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
 | ------- |
