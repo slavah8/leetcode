@@ -11,8 +11,6 @@ class Solution:
                     first = i
                 elif first != -1 and second == -1 and word == word1:
                     second = i
-                print(first)
-                print(second)
                 if first != -1 and second != -1:
                     best = min(best, abs(first - second))
                     first = second
