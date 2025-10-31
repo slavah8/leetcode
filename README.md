@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/slavah8/leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
+| [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/slavah8/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1390,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
