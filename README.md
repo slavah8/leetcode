@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/slavah8/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
+| [0762-find-anagram-mappings](https://github.com/slavah8/leetcode/tree/master/0762-find-anagram-mappings) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
+| [0762-find-anagram-mappings](https://github.com/slavah8/leetcode/tree/master/0762-find-anagram-mappings) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0959-3sum-with-multiplicity](https://github.com/slavah8/leetcode/tree/master/0959-3sum-with-multiplicity) |
