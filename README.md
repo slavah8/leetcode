@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/slavah8/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/slavah8/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/slavah8/leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/slavah8/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/slavah8/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/slavah8/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Counting
 |  |
 | ------- |
@@ -1461,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3265-maximum-good-subarray-sum](https://github.com/slavah8/leetcode/tree/master/3265-maximum-good-subarray-sum) |
 | [3311-ant-on-the-boundary](https://github.com/slavah8/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/slavah8/leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/slavah8/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
