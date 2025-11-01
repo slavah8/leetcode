@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/slavah8/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1533,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/slavah8/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1668-find-longest-awesome-substring](https://github.com/slavah8/leetcode/tree/master/1668-find-longest-awesome-substring) |
@@ -1826,6 +1829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1418-fair-distribution-of-cookies](https://github.com/slavah8/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1799-minimum-incompatibility](https://github.com/slavah8/leetcode/tree/master/1799-minimum-incompatibility) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
