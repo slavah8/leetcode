@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/slavah8/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/slavah8/leetcode/tree/master/0475-heaters) |
+| [0484-find-permutation](https://github.com/slavah8/leetcode/tree/master/0484-find-permutation) |
 | [0485-max-consecutive-ones](https://github.com/slavah8/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/slavah8/leetcode/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/slavah8/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/slavah8/leetcode/tree/master/0481-magical-string) |
+| [0484-find-permutation](https://github.com/slavah8/leetcode/tree/master/0484-find-permutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/slavah8/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/slavah8/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/slavah8/leetcode/tree/master/0541-reverse-string-ii) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/slavah8/leetcode/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/slavah8/leetcode/tree/master/0455-assign-cookies) |
+| [0484-find-permutation](https://github.com/slavah8/leetcode/tree/master/0484-find-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/slavah8/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -1810,6 +1813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/slavah8/leetcode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/slavah8/leetcode/tree/master/0402-remove-k-digits) |
+| [0484-find-permutation](https://github.com/slavah8/leetcode/tree/master/0484-find-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0785-basic-calculator-iii](https://github.com/slavah8/leetcode/tree/master/0785-basic-calculator-iii) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
