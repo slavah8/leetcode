@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/slavah8/leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2625-increment-submatrices-by-one](https://github.com/slavah8/leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/slavah8/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
@@ -1286,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/slavah8/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/slavah8/leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
