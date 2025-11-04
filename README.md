@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/slavah8/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/slavah8/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2714-left-and-right-sum-differences](https://github.com/slavah8/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/slavah8/leetcode/tree/master/2721-sum-of-distances) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/slavah8/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -1264,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/slavah8/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/slavah8/leetcode/tree/master/2886-faulty-keyboard) |
 | [3311-ant-on-the-boundary](https://github.com/slavah8/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
