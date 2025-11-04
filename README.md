@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0161-one-edit-distance](https://github.com/slavah8/leetcode/tree/master/0161-one-edit-distance) |
+| [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0243-shortest-word-distance](https://github.com/slavah8/leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/slavah8/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/slavah8/leetcode/tree/master/0245-shortest-word-distance-iii) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/slavah8/leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/slavah8/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
 | [0343-integer-break](https://github.com/slavah8/leetcode/tree/master/0343-integer-break) |
@@ -1789,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/slavah8/leetcode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -1931,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 ## Line Sweep
