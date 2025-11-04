@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/slavah8/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/slavah8/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1648,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
+| [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1673,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/slavah8/leetcode/tree/master/1122-longest-duplicate-substring) |
+| [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/slavah8/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Database
@@ -1812,6 +1815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/slavah8/leetcode/tree/master/1122-longest-duplicate-substring) |
+| [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/slavah8/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Suffix Array
@@ -1819,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
 | [1122-longest-duplicate-substring](https://github.com/slavah8/leetcode/tree/master/1122-longest-duplicate-substring) |
+| [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 ## String Matching
 |  |
 | ------- |
