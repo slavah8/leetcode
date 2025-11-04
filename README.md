@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/slavah8/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/slavah8/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/slavah8/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -1309,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1067-campus-bikes-ii](https://github.com/slavah8/leetcode/tree/master/1067-campus-bikes-ii) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/slavah8/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/slavah8/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
