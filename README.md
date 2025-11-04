@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/slavah8/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/slavah8/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3265-maximum-good-subarray-sum](https://github.com/slavah8/leetcode/tree/master/3265-maximum-good-subarray-sum) |
 | [3268-minimum-number-of-coins-for-fruits-ii](https://github.com/slavah8/leetcode/tree/master/3268-minimum-number-of-coins-for-fruits-ii) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3836-phone-number-prefix](https://github.com/slavah8/leetcode/tree/master/3836-phone-number-prefix) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/slavah8/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
 | [3268-minimum-number-of-coins-for-fruits-ii](https://github.com/slavah8/leetcode/tree/master/3268-minimum-number-of-coins-for-fruits-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
@@ -1268,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/slavah8/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/slavah8/leetcode/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/slavah8/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3905-partition-string](https://github.com/slavah8/leetcode/tree/master/3905-partition-string) |
