@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
+| [0281-zigzag-iterator](https://github.com/slavah8/leetcode/tree/master/0281-zigzag-iterator) |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/slavah8/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0311-sparse-matrix-multiplication](https://github.com/slavah8/leetcode/tree/master/0311-sparse-matrix-multiplication) |
@@ -1178,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/slavah8/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0244-shortest-word-distance-ii](https://github.com/slavah8/leetcode/tree/master/0244-shortest-word-distance-ii) |
+| [0281-zigzag-iterator](https://github.com/slavah8/leetcode/tree/master/0281-zigzag-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/slavah8/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0346-moving-average-from-data-stream) |
@@ -1747,6 +1749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0281-zigzag-iterator](https://github.com/slavah8/leetcode/tree/master/0281-zigzag-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -2099,6 +2102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0281-zigzag-iterator](https://github.com/slavah8/leetcode/tree/master/0281-zigzag-iterator) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
