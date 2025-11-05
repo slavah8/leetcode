@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/slavah8/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/slavah8/leetcode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/slavah8/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/slavah8/leetcode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
