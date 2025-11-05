@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3780-permutations-iii](https://github.com/slavah8/leetcode/tree/master/3780-permutations-iii) |
 | [3806-maximum-coin-collection](https://github.com/slavah8/leetcode/tree/master/3806-maximum-coin-collection) |
+| [3818-maximize-profit-from-task-assignment](https://github.com/slavah8/leetcode/tree/master/3818-maximize-profit-from-task-assignment) |
 | [3836-phone-number-prefix](https://github.com/slavah8/leetcode/tree/master/3836-phone-number-prefix) |
 | [3855-make-a-positive-array](https://github.com/slavah8/leetcode/tree/master/3855-make-a-positive-array) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/slavah8/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3818-maximize-profit-from-task-assignment](https://github.com/slavah8/leetcode/tree/master/3818-maximize-profit-from-task-assignment) |
 | [3836-phone-number-prefix](https://github.com/slavah8/leetcode/tree/master/3836-phone-number-prefix) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Bucket Sort
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/slavah8/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3818-maximize-profit-from-task-assignment](https://github.com/slavah8/leetcode/tree/master/3818-maximize-profit-from-task-assignment) |
 ## Quickselect
 |  |
 | ------- |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3818-maximize-profit-from-task-assignment](https://github.com/slavah8/leetcode/tree/master/3818-maximize-profit-from-task-assignment) |
 | [3855-make-a-positive-array](https://github.com/slavah8/leetcode/tree/master/3855-make-a-positive-array) |
 ## Binary Search Tree
 |  |
