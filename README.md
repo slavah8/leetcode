@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/slavah8/leetcode/tree/master/0638-shopping-offers) |
 | [0656-coin-path](https://github.com/slavah8/leetcode/tree/master/0656-coin-path) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/slavah8/leetcode/tree/master/0480-sliding-window-median) |
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1074-high-five](https://github.com/slavah8/leetcode/tree/master/1074-high-five) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0691-stickers-to-spell-word](https://github.com/slavah8/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/slavah8/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
@@ -1503,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/slavah8/leetcode/tree/master/0480-sliding-window-median) |
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
