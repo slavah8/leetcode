@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/slavah8/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
+| [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0664-strange-printer](https://github.com/slavah8/leetcode/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/slavah8/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/slavah8/leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/slavah8/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/slavah8/leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/slavah8/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/slavah8/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/slavah8/leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/slavah8/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
