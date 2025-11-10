@@ -28,8 +28,7 @@ class Solution:
             
         p1 = dfs(root, region1)
         p2 = dfs(root, region2)
-        print(p1)
-        print(p2)
+        
         i = 0
         while i < len(p1) and i < len(p2) and p1[i] == p2[i]:
             i += 1
