@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/slavah8/leetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Breadth-First Search
 |  |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Graph
 |  |
 | ------- |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/slavah8/leetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/slavah8/leetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Greedy
 |  |
 | ------- |
