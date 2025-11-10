@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/slavah8/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/slavah8/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
