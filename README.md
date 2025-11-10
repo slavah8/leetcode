@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0295-find-median-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0354-russian-doll-envelopes](https://github.com/slavah8/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/slavah8/leetcode/tree/master/0436-find-right-interval) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/slavah8/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/slavah8/leetcode/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/slavah8/leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/slavah8/leetcode/tree/master/0311-sparse-matrix-multiplication) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0348-design-tic-tac-toe](https://github.com/slavah8/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -1040,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/slavah8/leetcode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/slavah8/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0509-inorder-successor-in-bst-ii](https://github.com/slavah8/leetcode/tree/master/0509-inorder-successor-in-bst-ii) |
@@ -1078,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/slavah8/leetcode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/slavah8/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0509-inorder-successor-in-bst-ii](https://github.com/slavah8/leetcode/tree/master/0509-inorder-successor-in-bst-ii) |
