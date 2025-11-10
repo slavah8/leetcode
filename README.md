@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/slavah8/leetcode/tree/master/0484-find-permutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/slavah8/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/slavah8/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0541-reverse-string-ii](https://github.com/slavah8/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/slavah8/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/slavah8/leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/slavah8/leetcode/tree/master/0563-binary-tree-tilt) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-inorder-successor-in-bst-ii](https://github.com/slavah8/leetcode/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/slavah8/leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/slavah8/leetcode/tree/master/0563-binary-tree-tilt) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-inorder-successor-in-bst-ii](https://github.com/slavah8/leetcode/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/slavah8/leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/slavah8/leetcode/tree/master/0563-binary-tree-tilt) |
@@ -1983,6 +1987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/slavah8/leetcode/tree/master/0402-remove-k-digits) |
 | [0484-find-permutation](https://github.com/slavah8/leetcode/tree/master/0484-find-permutation) |
+| [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0785-basic-calculator-iii](https://github.com/slavah8/leetcode/tree/master/0785-basic-calculator-iii) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
