@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/slavah8/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/slavah8/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/slavah8/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/slavah8/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
+| [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/slavah8/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1125,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
+| [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/slavah8/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
