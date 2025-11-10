@@ -901,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/slavah8/leetcode/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/slavah8/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/slavah8/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0863-sum-of-distances-in-tree](https://github.com/slavah8/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/slavah8/leetcode/tree/master/0687-longest-univalue-path) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
