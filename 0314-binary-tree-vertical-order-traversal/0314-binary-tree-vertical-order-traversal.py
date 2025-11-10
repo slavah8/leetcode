@@ -23,6 +23,5 @@ class Solution:
             if node.right:
                 queue.append((node.right, c + 1))
 
-        print(col_map)
         
         return [col_map[c] for c in range(min_c, max_c + 1)]
