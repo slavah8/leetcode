@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0437-path-sum-iii](https://github.com/slavah8/leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/slavah8/leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0509-inorder-successor-in-bst-ii](https://github.com/slavah8/leetcode/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1113,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/slavah8/leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/slavah8/leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0509-inorder-successor-in-bst-ii](https://github.com/slavah8/leetcode/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
