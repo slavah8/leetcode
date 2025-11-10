@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/slavah8/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/slavah8/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/slavah8/leetcode/tree/master/0687-longest-univalue-path) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/slavah8/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/slavah8/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/slavah8/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/slavah8/leetcode/tree/master/0687-longest-univalue-path) |
 | [0863-sum-of-distances-in-tree](https://github.com/slavah8/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/slavah8/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/slavah8/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/slavah8/leetcode/tree/master/0687-longest-univalue-path) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
