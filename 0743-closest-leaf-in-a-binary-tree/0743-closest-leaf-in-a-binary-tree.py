@@ -21,7 +21,6 @@ class Solution:
             dfs(node.right)
         
         dfs(root)
-        print(leaves)
         graph = defaultdict(list)
         def dfs2(node):
             if node.left:
@@ -34,7 +33,6 @@ class Solution:
                 dfs2(node.right)
         
         dfs2(root)
-        print(graph)
 
 
         def bfs(start):
@@ -52,8 +50,7 @@ class Solution:
             return far, dist
         
         node, dist = bfs(k) # dist from root to each node
-        print(node)
-        print(dist)
+        
         INF = 10 ** 10
         min_node = None
         min_dist = INF
