@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1665-diameter-of-n-ary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/slavah8/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1668-find-longest-awesome-substring](https://github.com/slavah8/leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1665-diameter-of-n-ary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
 | [1731-even-odd-tree](https://github.com/slavah8/leetcode/tree/master/1731-even-odd-tree) |
@@ -1914,6 +1917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1587-parallel-courses-ii](https://github.com/slavah8/leetcode/tree/master/1587-parallel-courses-ii) |
 | [1610-xor-operation-in-an-array](https://github.com/slavah8/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1668-find-longest-awesome-substring](https://github.com/slavah8/leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1799-minimum-incompatibility](https://github.com/slavah8/leetcode/tree/master/1799-minimum-incompatibility) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
