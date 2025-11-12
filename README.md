@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/slavah8/leetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 | [3486-count-the-number-of-good-nodes](https://github.com/slavah8/leetcode/tree/master/3486-count-the-number-of-good-nodes) |
+| [3497-find-the-last-marked-nodes-in-tree](https://github.com/slavah8/leetcode/tree/master/3497-find-the-last-marked-nodes-in-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -1142,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/slavah8/leetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 | [3486-count-the-number-of-good-nodes](https://github.com/slavah8/leetcode/tree/master/3486-count-the-number-of-good-nodes) |
+| [3497-find-the-last-marked-nodes-in-tree](https://github.com/slavah8/leetcode/tree/master/3497-find-the-last-marked-nodes-in-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Binary Tree
