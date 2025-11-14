@@ -882,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/slavah8/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1151-stepping-numbers](https://github.com/slavah8/leetcode/tree/master/1151-stepping-numbers) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/slavah8/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/slavah8/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -1230,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1091-maximum-average-subtree](https://github.com/slavah8/leetcode/tree/master/1091-maximum-average-subtree) |
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/slavah8/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/slavah8/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
