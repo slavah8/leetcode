@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-minimum-levels-to-gain-more-points](https://github.com/slavah8/leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/slavah8/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/slavah8/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/slavah8/leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/slavah8/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Binary Indexed Tree
 |  |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/slavah8/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/slavah8/leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/slavah8/leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/slavah8/leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -1400,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/slavah8/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -1574,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/slavah8/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Simulation
@@ -1740,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3268-minimum-number-of-coins-for-fruits-ii](https://github.com/slavah8/leetcode/tree/master/3268-minimum-number-of-coins-for-fruits-ii) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/slavah8/leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
