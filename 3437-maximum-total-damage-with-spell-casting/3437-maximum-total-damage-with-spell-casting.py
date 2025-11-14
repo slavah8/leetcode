@@ -8,7 +8,6 @@ class Solution:
         
         next_idx = [0] * n
         for i, x in enumerate(vals):
-            pass
             j = bisect.bisect_right(vals, x + 2)
             next_idx[i] = j
 
