@@ -10,10 +10,12 @@ class Solution:
 
         confusion = 0
         print(graph)
+        # count triangles
         for i in range(1, n + 1):
+            # Only consider neighbors with index > i to avoid duplicates
             neighbors = [u for u in graph[i] if u > i]
             m = len(neighbors)
-
+            # we know i and u are connected but we need to check if v is also connected
             for idx in range(m):
                 u = neighbors[idx]
                 for j in range(idx + 1, m):
