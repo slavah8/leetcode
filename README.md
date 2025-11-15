@@ -901,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/slavah8/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1665-diameter-of-n-ary-tree) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/slavah8/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/slavah8/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/slavah8/leetcode/tree/master/1731-even-odd-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/slavah8/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/slavah8/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1587-parallel-courses-ii](https://github.com/slavah8/leetcode/tree/master/1587-parallel-courses-ii) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/slavah8/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/slavah8/leetcode/tree/master/1738-maximal-network-rank) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/slavah8/leetcode/tree/master/0881-loud-and-rich) |
 | [1101-parallel-courses](https://github.com/slavah8/leetcode/tree/master/1101-parallel-courses) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
+| [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 ## Hash Table
 |  |
