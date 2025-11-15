@@ -991,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1587-parallel-courses-ii](https://github.com/slavah8/leetcode/tree/master/1587-parallel-courses-ii) |
+| [1916-find-center-of-star-graph](https://github.com/slavah8/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
