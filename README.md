@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1039-find-the-town-judge](https://github.com/slavah8/leetcode/tree/master/1039-find-the-town-judge) |
 | [1059-missing-element-in-sorted-array](https://github.com/slavah8/leetcode/tree/master/1059-missing-element-in-sorted-array) |
 | [1061-number-of-valid-subarrays](https://github.com/slavah8/leetcode/tree/master/1061-number-of-valid-subarrays) |
 | [1066-fixed-point](https://github.com/slavah8/leetcode/tree/master/1066-fixed-point) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/slavah8/leetcode/tree/master/0881-loud-and-rich) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/slavah8/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/slavah8/leetcode/tree/master/1039-find-the-town-judge) |
 | [1101-parallel-courses](https://github.com/slavah8/leetcode/tree/master/1101-parallel-courses) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1039-find-the-town-judge](https://github.com/slavah8/leetcode/tree/master/1039-find-the-town-judge) |
 | [1074-high-five](https://github.com/slavah8/leetcode/tree/master/1074-high-five) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/slavah8/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
