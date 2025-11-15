@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2944-height-of-special-binary-tree](https://github.com/slavah8/leetcode/tree/master/2944-height-of-special-binary-tree) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Graph
 |  |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3189-find-champion-ii](https://github.com/slavah8/leetcode/tree/master/3189-find-champion-ii) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1946,6 +1948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3265-maximum-good-subarray-sum](https://github.com/slavah8/leetcode/tree/master/3265-maximum-good-subarray-sum) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3311-ant-on-the-boundary](https://github.com/slavah8/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/slavah8/leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
