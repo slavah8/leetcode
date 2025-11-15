@@ -10,8 +10,7 @@ class Solution:
             node_degree[v] += 1
         
         
-        print(graph)
-        print(node_degree)
+        
         sorted_nodes = sorted(node_degree, key = lambda node: node_degree[node], reverse = True)
     
         # need to assign
@@ -20,7 +19,6 @@ class Solution:
         for node in sorted_nodes:
             node_val[node] = assign
             assign -= 1
-        print(node_val)
 
         importance = 0
         for u, v in roads:
