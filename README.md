@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/slavah8/leetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2329-maximum-product-after-k-increments](https://github.com/slavah8/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/slavah8/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/slavah8/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2468-valid-palindrome-iv](https://github.com/slavah8/leetcode/tree/master/2468-valid-palindrome-iv) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/slavah8/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/slavah8/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/slavah8/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2189-maximum-path-quality-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/slavah8/leetcode/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2379-maximum-total-importance-of-roads](https://github.com/slavah8/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/slavah8/leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -1041,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -1228,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/slavah8/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/slavah8/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2384-root-equals-sum-of-children](https://github.com/slavah8/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/slavah8/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
