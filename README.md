@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/slavah8/leetcode/tree/master/1803-average-waiting-time) |
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/slavah8/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/slavah8/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-the-most-similar-path-in-a-graph](https://github.com/slavah8/leetcode/tree/master/1687-the-most-similar-path-in-a-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/slavah8/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/slavah8/leetcode/tree/master/1738-maximal-network-rank) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1916-find-center-of-star-graph](https://github.com/slavah8/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
@@ -1430,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/slavah8/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
@@ -1653,6 +1657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/slavah8/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/slavah8/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
