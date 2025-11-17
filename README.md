@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2504-find-all-good-indices](https://github.com/slavah8/leetcode/tree/master/2504-find-all-good-indices) |
+| [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/slavah8/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/slavah8/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/slavah8/leetcode/tree/master/2455-node-with-highest-edge-score) |
+| [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/slavah8/leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1161,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2455-node-with-highest-edge-score](https://github.com/slavah8/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2479-meeting-rooms-iii](https://github.com/slavah8/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
@@ -1265,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-root-equals-sum-of-children](https://github.com/slavah8/leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/slavah8/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/slavah8/leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -1453,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
