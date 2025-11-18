@@ -1057,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2198-process-restricted-friend-requests](https://github.com/slavah8/leetcode/tree/master/2198-process-restricted-friend-requests) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/slavah8/leetcode/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1467,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/slavah8/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2198-process-restricted-friend-requests](https://github.com/slavah8/leetcode/tree/master/2198-process-restricted-friend-requests) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
