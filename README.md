@@ -1016,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2584-number-of-nodes-with-value-one](https://github.com/slavah8/leetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/slavah8/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2944-height-of-special-binary-tree](https://github.com/slavah8/leetcode/tree/master/2944-height-of-special-binary-tree) |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/slavah8/leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/slavah8/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/slavah8/leetcode/tree/master/3189-find-champion-ii) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
