@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-maximize-distance-to-closest-person](https://github.com/slavah8/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0881-loud-and-rich](https://github.com/slavah8/leetcode/tree/master/0881-loud-and-rich) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
 | [0911-profitable-schemes](https://github.com/slavah8/leetcode/tree/master/0911-profitable-schemes) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
@@ -1501,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/slavah8/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -1734,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/slavah8/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1803-average-waiting-time](https://github.com/slavah8/leetcode/tree/master/1803-average-waiting-time) |
