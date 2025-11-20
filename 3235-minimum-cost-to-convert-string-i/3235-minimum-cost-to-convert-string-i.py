@@ -1,5 +1,6 @@
 class Solution:
     def minimumCost(self, source: str, target: str, original: List[str], changed: List[str], cost: List[int]) -> int:
+        # DIJKSTRA
         n = len(source)
         INF = 10 ** 10
         graph = defaultdict(list)
@@ -40,7 +41,7 @@ class Solution:
             v = ord(t) - ord('a')
 
             cur_cost = dist_all[u][v]
-            
+
             if cur_cost == INF:
                 return -1
             total += cur_cost
