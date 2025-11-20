@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/slavah8/leetcode/tree/master/0484-find-permutation) |
 | [0485-max-consecutive-ones](https://github.com/slavah8/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/slavah8/leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [0506-relative-ranks](https://github.com/slavah8/leetcode/tree/master/0506-relative-ranks) |
 | [0519-widest-pair-of-indices-with-equal-range-sum](https://github.com/slavah8/leetcode/tree/master/0519-widest-pair-of-indices-with-equal-range-sum) |
 | [0523-continuous-subarray-sum](https://github.com/slavah8/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/slavah8/leetcode/tree/master/0480-sliding-window-median) |
+| [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [0506-relative-ranks](https://github.com/slavah8/leetcode/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/slavah8/leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/slavah8/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/slavah8/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/slavah8/leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -1041,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
+| [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/slavah8/leetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0685-redundant-connection-ii](https://github.com/slavah8/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
@@ -1514,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/slavah8/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/slavah8/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [0531-lonely-pixel-i](https://github.com/slavah8/leetcode/tree/master/0531-lonely-pixel-i) |
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
@@ -1778,6 +1784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
+| [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/slavah8/leetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
