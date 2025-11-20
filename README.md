@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1879-maximum-score-from-removing-stones](https://github.com/slavah8/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/slavah8/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/slavah8/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/slavah8/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/slavah8/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1891-count-pairs-of-nodes](https://github.com/slavah8/leetcode/tree/master/1891-count-pairs-of-nodes) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1916-find-center-of-star-graph](https://github.com/slavah8/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1101-parallel-courses](https://github.com/slavah8/leetcode/tree/master/1101-parallel-courses) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2506-minimize-maximum-value-in-a-grid) |
@@ -1808,6 +1811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/slavah8/leetcode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/slavah8/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/slavah8/leetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -1920,6 +1924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/slavah8/leetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
