@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/slavah8/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
+| [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/slavah8/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1916-find-center-of-star-graph](https://github.com/slavah8/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
+| [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2176-parallel-courses-iii](https://github.com/slavah8/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/slavah8/leetcode/tree/master/2198-process-restricted-friend-requests) |
@@ -1815,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/slavah8/leetcode/tree/master/0505-the-maze-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/slavah8/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/slavah8/leetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -1931,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/slavah8/leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
+| [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -2402,6 +2406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/slavah8/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1985-maximum-subarray-min-product](https://github.com/slavah8/leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/slavah8/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/slavah8/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/slavah8/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -2567,6 +2572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/slavah8/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1985-maximum-subarray-min-product](https://github.com/slavah8/leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/slavah8/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/slavah8/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
