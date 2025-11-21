@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/slavah8/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/slavah8/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/slavah8/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/slavah8/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -1747,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3359-linked-list-frequency](https://github.com/slavah8/leetcode/tree/master/3359-linked-list-frequency) |
 | [3368-winner-of-the-linked-list-game](https://github.com/slavah8/leetcode/tree/master/3368-winner-of-the-linked-list-game) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/slavah8/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/slavah8/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2650,6 +2652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/slavah8/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+| [3615-convert-doubly-linked-list-to-array-ii](https://github.com/slavah8/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
