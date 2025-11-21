@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0831-largest-sum-of-averages](https://github.com/slavah8/leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/slavah8/leetcode/tree/master/0837-most-common-word) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
@@ -1188,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/slavah8/leetcode/tree/master/0740-delete-and-earn) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
 | [0762-find-anagram-mappings](https://github.com/slavah8/leetcode/tree/master/0762-find-anagram-mappings) |
+| [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/slavah8/leetcode/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1731,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0369-plus-one-linked-list](https://github.com/slavah8/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1765-merge-in-between-linked-lists](https://github.com/slavah8/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
