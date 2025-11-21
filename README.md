@@ -1111,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/slavah8/leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2218-paths-in-maze-that-lead-to-same-room](https://github.com/slavah8/leetcode/tree/master/2218-paths-in-maze-that-lead-to-same-room) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/slavah8/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/slavah8/leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2379-maximum-total-importance-of-roads](https://github.com/slavah8/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1827,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/slavah8/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/slavah8/leetcode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/slavah8/leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/slavah8/leetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/slavah8/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
