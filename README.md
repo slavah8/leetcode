@@ -986,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/slavah8/leetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [2944-height-of-special-binary-tree](https://github.com/slavah8/leetcode/tree/master/2944-height-of-special-binary-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/slavah8/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 | [3486-count-the-number-of-good-nodes](https://github.com/slavah8/leetcode/tree/master/3486-count-the-number-of-good-nodes) |
 | [3497-find-the-last-marked-nodes-in-tree](https://github.com/slavah8/leetcode/tree/master/3497-find-the-last-marked-nodes-in-tree) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2944-height-of-special-binary-tree](https://github.com/slavah8/leetcode/tree/master/2944-height-of-special-binary-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/slavah8/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 ## Graph
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/slavah8/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2865-find-shortest-path-with-k-hops](https://github.com/slavah8/leetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/slavah8/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3189-find-champion-ii](https://github.com/slavah8/leetcode/tree/master/3189-find-champion-ii) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -1982,6 +1985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/slavah8/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/slavah8/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/slavah8/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3268-minimum-number-of-coins-for-fruits-ii](https://github.com/slavah8/leetcode/tree/master/3268-minimum-number-of-coins-for-fruits-ii) |
