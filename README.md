@@ -1745,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/slavah8/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2835-split-a-circular-linked-list](https://github.com/slavah8/leetcode/tree/master/2835-split-a-circular-linked-list) |
 | [3359-linked-list-frequency](https://github.com/slavah8/leetcode/tree/master/3359-linked-list-frequency) |
 | [3368-winner-of-the-linked-list-game](https://github.com/slavah8/leetcode/tree/master/3368-winner-of-the-linked-list-game) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/slavah8/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -1811,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2835-split-a-circular-linked-list](https://github.com/slavah8/leetcode/tree/master/2835-split-a-circular-linked-list) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/slavah8/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
