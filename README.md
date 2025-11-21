@@ -1741,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/slavah8/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3368-winner-of-the-linked-list-game](https://github.com/slavah8/leetcode/tree/master/3368-winner-of-the-linked-list-game) |
 ## Two Pointers
 |  |
 | ------- |
