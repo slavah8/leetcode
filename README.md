@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/slavah8/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2865-find-shortest-path-with-k-hops](https://github.com/slavah8/leetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1127,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2671-shortest-cycle-in-a-graph](https://github.com/slavah8/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/slavah8/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2865-find-shortest-path-with-k-hops](https://github.com/slavah8/leetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
 | [3189-find-champion-ii](https://github.com/slavah8/leetcode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -1832,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2612-minimum-cost-to-buy-apples](https://github.com/slavah8/leetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/slavah8/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2865-find-shortest-path-with-k-hops](https://github.com/slavah8/leetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
