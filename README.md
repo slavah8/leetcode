@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/slavah8/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/slavah8/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/slavah8/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/slavah8/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3818-maximize-profit-from-task-assignment](https://github.com/slavah8/leetcode/tree/master/3818-maximize-profit-from-task-assignment) |
@@ -1510,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3818-maximize-profit-from-task-assignment](https://github.com/slavah8/leetcode/tree/master/3818-maximize-profit-from-task-assignment) |
@@ -2613,6 +2616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Monotonic Stack
 |  |
