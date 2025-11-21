@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/slavah8/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
 | [3268-minimum-number-of-coins-for-fruits-ii](https://github.com/slavah8/leetcode/tree/master/3268-minimum-number-of-coins-for-fruits-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/slavah8/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1134,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2865-find-shortest-path-with-k-hops](https://github.com/slavah8/leetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
 | [3189-find-champion-ii](https://github.com/slavah8/leetcode/tree/master/3189-find-champion-ii) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
@@ -1840,6 +1842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/slavah8/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2865-find-shortest-path-with-k-hops](https://github.com/slavah8/leetcode/tree/master/2865-find-shortest-path-with-k-hops) |
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
@@ -2229,6 +2232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/slavah8/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/slavah8/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -2575,6 +2579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/slavah8/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Monotonic Stack
 |  |
