@@ -36,7 +36,6 @@ class Solution:
                 dsu.union(i, j)
                 j += 1
             i += 1
-        print(dsu.parent)
         ans = []
 
         for node1, node2 in queries:
