@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/slavah8/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/slavah8/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/slavah8/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/slavah8/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2868-continuous-subarrays](https://github.com/slavah8/leetcode/tree/master/2868-continuous-subarrays) |
 ## Depth-First Search
@@ -1586,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2198-process-restricted-friend-requests](https://github.com/slavah8/leetcode/tree/master/2198-process-restricted-friend-requests) |
 | [2213-find-all-people-with-secret](https://github.com/slavah8/leetcode/tree/master/2213-find-all-people-with-secret) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/slavah8/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2506-minimize-maximum-value-in-a-grid) |
@@ -2187,6 +2190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-intervals-between-identical-elements](https://github.com/slavah8/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/slavah8/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
