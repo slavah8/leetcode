@@ -1783,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1151-stepping-numbers](https://github.com/slavah8/leetcode/tree/master/1151-stepping-numbers) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/slavah8/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1362-airplane-seat-assignment-probability](https://github.com/slavah8/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -2323,6 +2324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1067-campus-bikes-ii](https://github.com/slavah8/leetcode/tree/master/1067-campus-bikes-ii) |
 | [1220-smallest-sufficient-team](https://github.com/slavah8/leetcode/tree/master/1220-smallest-sufficient-team) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/slavah8/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/slavah8/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -2627,6 +2629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-brace-expansion](https://github.com/slavah8/leetcode/tree/master/1087-brace-expansion) |
 | [1151-stepping-numbers](https://github.com/slavah8/leetcode/tree/master/1151-stepping-numbers) |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/slavah8/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/slavah8/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
