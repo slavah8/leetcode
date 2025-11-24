@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/slavah8/leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3493-properties-graph](https://github.com/slavah8/leetcode/tree/master/3493-properties-graph) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/slavah8/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 | [3486-count-the-number-of-good-nodes](https://github.com/slavah8/leetcode/tree/master/3486-count-the-number-of-good-nodes) |
+| [3493-properties-graph](https://github.com/slavah8/leetcode/tree/master/3493-properties-graph) |
 | [3497-find-the-last-marked-nodes-in-tree](https://github.com/slavah8/leetcode/tree/master/3497-find-the-last-marked-nodes-in-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/slavah8/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
+| [3493-properties-graph](https://github.com/slavah8/leetcode/tree/master/3493-properties-graph) |
 ## Graph
 |  |
 | ------- |
@@ -1186,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/slavah8/leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3493-properties-graph](https://github.com/slavah8/leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/slavah8/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/slavah8/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
@@ -1326,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3359-linked-list-frequency](https://github.com/slavah8/leetcode/tree/master/3359-linked-list-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3493-properties-graph](https://github.com/slavah8/leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/slavah8/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/slavah8/leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/slavah8/leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
@@ -1623,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3493-properties-graph](https://github.com/slavah8/leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/slavah8/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
