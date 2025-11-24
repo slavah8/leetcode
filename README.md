@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1962-single-threaded-cpu](https://github.com/slavah8/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/slavah8/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1983-maximum-population-year](https://github.com/slavah8/leetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1891-count-pairs-of-nodes](https://github.com/slavah8/leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/slavah8/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/slavah8/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/slavah8/leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/slavah8/leetcode/tree/master/2213-find-all-people-with-secret) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/slavah8/leetcode/tree/master/1731-even-odd-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/slavah8/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/slavah8/leetcode/tree/master/2213-find-all-people-with-secret) |
@@ -1600,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/slavah8/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2198-process-restricted-friend-requests](https://github.com/slavah8/leetcode/tree/master/2198-process-restricted-friend-requests) |
 | [2213-find-all-people-with-secret](https://github.com/slavah8/leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/slavah8/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
@@ -1649,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
