@@ -1306,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/slavah8/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/slavah8/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1718,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1891-count-pairs-of-nodes](https://github.com/slavah8/leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1983-maximum-population-year](https://github.com/slavah8/leetcode/tree/master/1983-maximum-population-year) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/slavah8/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
@@ -1807,6 +1809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/slavah8/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
@@ -2646,6 +2649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/slavah8/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -2721,6 +2725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/slavah8/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
