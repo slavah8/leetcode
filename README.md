@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/slavah8/leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2227-sum-of-subarray-ranges](https://github.com/slavah8/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/slavah8/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2240-intervals-between-identical-elements](https://github.com/slavah8/leetcode/tree/master/2240-intervals-between-identical-elements) |
@@ -2369,6 +2370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2291-maximum-and-sum-of-array](https://github.com/slavah8/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/slavah8/leetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
@@ -2668,6 +2670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/slavah8/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/slavah8/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -2740,6 +2743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/slavah8/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
