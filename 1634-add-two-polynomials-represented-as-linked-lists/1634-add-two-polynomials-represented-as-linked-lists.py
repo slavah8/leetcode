@@ -39,7 +39,6 @@ class Solution:
         else:
             curr.next = head1
 
-        print(dummy.next.next)
         return dummy.next.next
         
 
