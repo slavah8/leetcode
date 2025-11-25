@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/slavah8/leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/slavah8/leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/slavah8/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/slavah8/leetcode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3836-phone-number-prefix](https://github.com/slavah8/leetcode/tree/master/3836-phone-number-prefix) |
@@ -1744,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3359-linked-list-frequency](https://github.com/slavah8/leetcode/tree/master/3359-linked-list-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/slavah8/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/slavah8/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -2607,6 +2609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/slavah8/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Rolling Hash
 |  |
 | ------- |
