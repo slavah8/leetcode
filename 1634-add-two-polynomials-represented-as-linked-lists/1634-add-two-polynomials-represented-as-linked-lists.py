@@ -14,7 +14,6 @@ class Solution:
         while head1 and head2:
             if head1.power == head2.power:
                 coeff = head1.coefficient + head2.coefficient 
-                print(coeff)
                 if coeff == 0:
                     head1 = head1.next
                     head2 = head2.next
@@ -32,7 +31,6 @@ class Solution:
                 curr.next = head2
                 curr = curr.next
                 head2 = head2.next
-            print(curr.coefficient, curr.power)
         
         if head2:
             curr.next = head2
