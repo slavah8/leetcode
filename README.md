@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2714-left-and-right-sum-differences](https://github.com/slavah8/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/slavah8/leetcode/tree/master/2721-sum-of-distances) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/slavah8/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
@@ -1589,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/slavah8/leetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
+| [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
@@ -2121,6 +2124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/slavah8/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
+| [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/slavah8/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/slavah8/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -2381,6 +2385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/slavah8/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
@@ -2676,6 +2681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
+| [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/slavah8/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -2750,6 +2756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
+| [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
