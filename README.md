@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-dice-roll-simulation](https://github.com/slavah8/leetcode/tree/master/1343-dice-roll-simulation) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/slavah8/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/slavah8/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/slavah8/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/slavah8/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/slavah8/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1305,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/slavah8/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/slavah8/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -1938,6 +1942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-two-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1168-duplicate-zeros](https://github.com/slavah8/leetcode/tree/master/1168-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/slavah8/leetcode/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
