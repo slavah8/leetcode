@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/slavah8/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/slavah8/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/slavah8/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/slavah8/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1601,6 +1603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1951,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Simulation
 |  |
@@ -2609,6 +2613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/slavah8/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Rolling Hash
 |  |
@@ -2800,6 +2805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 ## Iterator
 |  |
 | ------- |
