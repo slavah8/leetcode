@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0293-flip-game](https://github.com/slavah8/leetcode/tree/master/0293-flip-game) |
 | [0306-additive-number](https://github.com/slavah8/leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0320-generalized-abbreviation](https://github.com/slavah8/leetcode/tree/master/0320-generalized-abbreviation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/slavah8/leetcode/tree/master/0402-remove-k-digits) |
@@ -2321,6 +2322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/slavah8/leetcode/tree/master/0089-gray-code) |
 | [0266-palindrome-permutation](https://github.com/slavah8/leetcode/tree/master/0266-palindrome-permutation) |
+| [0320-generalized-abbreviation](https://github.com/slavah8/leetcode/tree/master/0320-generalized-abbreviation) |
 | [0464-can-i-win](https://github.com/slavah8/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -2625,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0267-palindrome-permutation-ii](https://github.com/slavah8/leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
 | [0306-additive-number](https://github.com/slavah8/leetcode/tree/master/0306-additive-number) |
+| [0320-generalized-abbreviation](https://github.com/slavah8/leetcode/tree/master/0320-generalized-abbreviation) |
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/slavah8/leetcode/tree/master/0638-shopping-offers) |
