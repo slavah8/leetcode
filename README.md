@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0785-basic-calculator-iii](https://github.com/slavah8/leetcode/tree/master/0785-basic-calculator-iii) |
+| [0796-rotate-string](https://github.com/slavah8/leetcode/tree/master/0796-rotate-string) |
 | [0834-ambiguous-coordinates](https://github.com/slavah8/leetcode/tree/master/0834-ambiguous-coordinates) |
 | [0837-most-common-word](https://github.com/slavah8/leetcode/tree/master/0837-most-common-word) |
 | [0839-similar-string-groups](https://github.com/slavah8/leetcode/tree/master/0839-similar-string-groups) |
@@ -2626,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
+| [0796-rotate-string](https://github.com/slavah8/leetcode/tree/master/0796-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/slavah8/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
