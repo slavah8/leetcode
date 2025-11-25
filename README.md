@@ -1866,6 +1866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/slavah8/leetcode/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/slavah8/leetcode/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [1765-merge-in-between-linked-lists](https://github.com/slavah8/leetcode/tree/master/1765-merge-in-between-linked-lists) |
