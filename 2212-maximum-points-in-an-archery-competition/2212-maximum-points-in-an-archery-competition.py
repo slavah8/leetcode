@@ -33,10 +33,9 @@ class Solution:
         backtrack(0, numArrows, [0] * n, 0)
 
         leftover = numArrows - sum(ans)
-        print(leftover)
         for i, x in enumerate(ans):
             if x != 0:
                 ans[i] += leftover
                 break
-                
+
         return ans
