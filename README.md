@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2880-find-the-closest-marked-node](https://github.com/slavah8/leetcode/tree/master/2880-find-the-closest-marked-node) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/slavah8/leetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -2002,6 +2004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2835-split-a-circular-linked-list](https://github.com/slavah8/leetcode/tree/master/2835-split-a-circular-linked-list) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/slavah8/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -2834,6 +2837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
