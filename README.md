@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/slavah8/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/slavah8/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/slavah8/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1779,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/slavah8/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/slavah8/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3359-linked-list-frequency](https://github.com/slavah8/leetcode/tree/master/3359-linked-list-frequency) |
