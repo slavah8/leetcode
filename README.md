@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/slavah8/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/slavah8/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/slavah8/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/slavah8/leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/slavah8/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1650,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3529-maximum-array-hopping-score-ii](https://github.com/slavah8/leetcode/tree/master/3529-maximum-array-hopping-score-ii) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -2010,6 +2014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Simulation
 |  |
