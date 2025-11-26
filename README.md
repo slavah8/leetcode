@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0531-lonely-pixel-i](https://github.com/slavah8/leetcode/tree/master/0531-lonely-pixel-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/slavah8/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0546-remove-boxes](https://github.com/slavah8/leetcode/tree/master/0546-remove-boxes) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/slavah8/leetcode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/slavah8/leetcode/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/slavah8/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/slavah8/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/slavah8/leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/slavah8/leetcode/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/slavah8/leetcode/tree/master/0475-heaters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/slavah8/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/slavah8/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -1303,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/slavah8/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/slavah8/leetcode/tree/master/0525-contiguous-array) |
 | [0531-lonely-pixel-i](https://github.com/slavah8/leetcode/tree/master/0531-lonely-pixel-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/slavah8/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/slavah8/leetcode/tree/master/0582-kill-process) |
@@ -1961,6 +1965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/slavah8/leetcode/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/slavah8/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/slavah8/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/slavah8/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/slavah8/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
