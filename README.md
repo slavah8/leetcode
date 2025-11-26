@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-sliding-subarray-beauty](https://github.com/slavah8/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/slavah8/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/slavah8/leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/slavah8/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
@@ -1994,6 +1997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2835-split-a-circular-linked-list](https://github.com/slavah8/leetcode/tree/master/2835-split-a-circular-linked-list) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/slavah8/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
