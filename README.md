@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
+| [0274-h-index](https://github.com/slavah8/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/slavah8/leetcode/tree/master/0275-h-index-ii) |
 | [0281-zigzag-iterator](https://github.com/slavah8/leetcode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/slavah8/leetcode/tree/master/0284-peeking-iterator) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
+| [0274-h-index](https://github.com/slavah8/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0354-russian-doll-envelopes](https://github.com/slavah8/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -2908,4 +2910,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/slavah8/leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/slavah8/leetcode/tree/master/1168-optimize-water-distribution-in-a-village) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/slavah8/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
