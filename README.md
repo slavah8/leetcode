@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/slavah8/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3152-special-array-ii](https://github.com/slavah8/leetcode/tree/master/3152-special-array-ii) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3188-find-champion-i](https://github.com/slavah8/leetcode/tree/master/3188-find-champion-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3152-special-array-ii](https://github.com/slavah8/leetcode/tree/master/3152-special-array-ii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/slavah8/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -2402,6 +2404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3152-special-array-ii](https://github.com/slavah8/leetcode/tree/master/3152-special-array-ii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3265-maximum-good-subarray-sum](https://github.com/slavah8/leetcode/tree/master/3265-maximum-good-subarray-sum) |
