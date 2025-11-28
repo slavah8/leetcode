@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1202-palindrome-removal](https://github.com/slavah8/leetcode/tree/master/1202-palindrome-removal) |
 | [1206-corporate-flight-bookings](https://github.com/slavah8/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1219-longest-well-performing-interval](https://github.com/slavah8/leetcode/tree/master/1219-longest-well-performing-interval) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1321-get-equal-substrings-within-budget](https://github.com/slavah8/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -1347,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/slavah8/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1219-longest-well-performing-interval](https://github.com/slavah8/leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/slavah8/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1760,6 +1763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/slavah8/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/slavah8/leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1239-largest-1-bordered-square](https://github.com/slavah8/leetcode/tree/master/1239-largest-1-bordered-square) |
@@ -1800,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/slavah8/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1891-count-pairs-of-nodes](https://github.com/slavah8/leetcode/tree/master/1891-count-pairs-of-nodes) |
