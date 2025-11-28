@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
+| [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-bricks-falling-when-hit](https://github.com/slavah8/leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0831-largest-sum-of-averages](https://github.com/slavah8/leetcode/tree/master/0831-largest-sum-of-averages) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0785-basic-calculator-iii](https://github.com/slavah8/leetcode/tree/master/0785-basic-calculator-iii) |
+| [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/slavah8/leetcode/tree/master/0796-rotate-string) |
 | [0834-ambiguous-coordinates](https://github.com/slavah8/leetcode/tree/master/0834-ambiguous-coordinates) |
 | [0837-most-common-word](https://github.com/slavah8/leetcode/tree/master/0837-most-common-word) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/slavah8/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
+| [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1321,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/slavah8/leetcode/tree/master/0740-delete-and-earn) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
 | [0762-find-anagram-mappings](https://github.com/slavah8/leetcode/tree/master/0762-find-anagram-mappings) |
+| [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/slavah8/leetcode/tree/master/0837-most-common-word) |
 | [0839-similar-string-groups](https://github.com/slavah8/leetcode/tree/master/0839-similar-string-groups) |
@@ -2109,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0727-minimum-window-subsequence](https://github.com/slavah8/leetcode/tree/master/0727-minimum-window-subsequence) |
 | [0740-delete-and-earn](https://github.com/slavah8/leetcode/tree/master/0740-delete-and-earn) |
+| [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/slavah8/leetcode/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/slavah8/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0863-sum-of-distances-in-tree](https://github.com/slavah8/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -2512,6 +2518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
+| [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
