@@ -881,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1321-get-equal-substrings-within-budget](https://github.com/slavah8/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -1882,6 +1883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1151-stepping-numbers](https://github.com/slavah8/leetcode/tree/master/1151-stepping-numbers) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/slavah8/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1362-airplane-seat-assignment-probability](https://github.com/slavah8/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
@@ -1997,6 +1999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-two-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1168-duplicate-zeros](https://github.com/slavah8/leetcode/tree/master/1168-duplicate-zeros) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/slavah8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -2541,6 +2544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0277-find-the-celebrity](https://github.com/slavah8/leetcode/tree/master/0277-find-the-celebrity) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 ## Hash Function
