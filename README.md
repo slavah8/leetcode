@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/slavah8/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/slavah8/leetcode/tree/master/0699-falling-squares) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/slavah8/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/slavah8/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/slavah8/leetcode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/slavah8/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
+| [0699-falling-squares](https://github.com/slavah8/leetcode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
