@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/slavah8/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/slavah8/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/slavah8/leetcode/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/slavah8/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/slavah8/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-consecutive-characters](https://github.com/slavah8/leetcode/tree/master/1542-consecutive-characters) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/slavah8/leetcode/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/slavah8/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1668-find-longest-awesome-substring](https://github.com/slavah8/leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/slavah8/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/slavah8/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/slavah8/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/slavah8/leetcode/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1646-kth-missing-positive-number](https://github.com/slavah8/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -2635,6 +2638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/slavah8/leetcode/tree/master/1428-leftmost-column-with-at-least-a-one) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/slavah8/leetcode/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/slavah8/leetcode/tree/master/1672-find-the-index-of-the-large-integer) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 ## Hash Function
