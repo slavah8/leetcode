@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/slavah8/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2240-intervals-between-identical-elements](https://github.com/slavah8/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/slavah8/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/slavah8/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/slavah8/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/slavah8/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2213-find-all-people-with-secret](https://github.com/slavah8/leetcode/tree/master/2213-find-all-people-with-secret) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/slavah8/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/slavah8/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/slavah8/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/slavah8/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/slavah8/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/slavah8/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/slavah8/leetcode/tree/master/1395-count-number-of-teams) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/slavah8/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/slavah8/leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 ## Segment Tree
@@ -1449,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/slavah8/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2240-intervals-between-identical-elements](https://github.com/slavah8/leetcode/tree/master/2240-intervals-between-identical-elements) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/slavah8/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
