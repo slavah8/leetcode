@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-bricks-falling-when-hit](https://github.com/slavah8/leetcode/tree/master/0803-bricks-falling-when-hit) |
+| [0825-friends-of-appropriate-ages](https://github.com/slavah8/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0831-largest-sum-of-averages](https://github.com/slavah8/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/slavah8/leetcode/tree/master/0837-most-common-word) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/slavah8/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/slavah8/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/slavah8/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
@@ -2024,6 +2027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/slavah8/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/slavah8/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/slavah8/leetcode/tree/master/0875-longest-mountain-in-array) |
