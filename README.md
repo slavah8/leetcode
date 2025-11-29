@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/slavah8/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-longest-turbulent-subarray](https://github.com/slavah8/leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1027-longest-arithmetic-subsequence](https://github.com/slavah8/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1028-interval-list-intersections](https://github.com/slavah8/leetcode/tree/master/1028-interval-list-intersections) |
 | [1032-satisfiability-of-equality-equations](https://github.com/slavah8/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
+| [1027-longest-arithmetic-subsequence](https://github.com/slavah8/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1051-shortest-way-to-form-string](https://github.com/slavah8/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1059-missing-element-in-sorted-array](https://github.com/slavah8/leetcode/tree/master/1059-missing-element-in-sorted-array) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
@@ -1393,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/slavah8/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/slavah8/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
@@ -2200,6 +2203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1020-longest-turbulent-subarray](https://github.com/slavah8/leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1027-longest-arithmetic-subsequence](https://github.com/slavah8/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
 | [1067-campus-bikes-ii](https://github.com/slavah8/leetcode/tree/master/1067-campus-bikes-ii) |
