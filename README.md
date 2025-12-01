@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/slavah8/leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/slavah8/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/slavah8/leetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/slavah8/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/slavah8/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
@@ -1755,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/slavah8/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/slavah8/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/slavah8/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/slavah8/leetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -2335,6 +2338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-count-number-of-ways-to-place-houses](https://github.com/slavah8/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/slavah8/leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/slavah8/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2504-find-all-good-indices](https://github.com/slavah8/leetcode/tree/master/2504-find-all-good-indices) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
@@ -2498,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/slavah8/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
