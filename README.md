@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/slavah8/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/slavah8/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/slavah8/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/slavah8/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -1765,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/slavah8/leetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/slavah8/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
