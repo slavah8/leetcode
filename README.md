@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2584-number-of-nodes-with-value-one](https://github.com/slavah8/leetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-next-greater-element-iv](https://github.com/slavah8/leetcode/tree/master/2549-next-greater-element-iv) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2665-minimum-time-to-repair-cars](https://github.com/slavah8/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
@@ -1775,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/slavah8/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/slavah8/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -2157,6 +2161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/slavah8/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
