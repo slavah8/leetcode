@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/slavah8/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3152-special-array-ii](https://github.com/slavah8/leetcode/tree/master/3152-special-array-ii) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3188-find-champion-i](https://github.com/slavah8/leetcode/tree/master/3188-find-champion-i) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
+| [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/slavah8/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2890-count-substrings-without-repeating-character](https://github.com/slavah8/leetcode/tree/master/2890-count-substrings-without-repeating-character) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/slavah8/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3104-find-longest-self-contained-substring](https://github.com/slavah8/leetcode/tree/master/3104-find-longest-self-contained-substring) |
+| [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/slavah8/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/slavah8/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3104-find-longest-self-contained-substring](https://github.com/slavah8/leetcode/tree/master/3104-find-longest-self-contained-substring) |
+| [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3152-special-array-ii](https://github.com/slavah8/leetcode/tree/master/3152-special-array-ii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/slavah8/leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -1498,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3104-find-longest-self-contained-substring](https://github.com/slavah8/leetcode/tree/master/3104-find-longest-self-contained-substring) |
+| [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/slavah8/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3265-maximum-good-subarray-sum](https://github.com/slavah8/leetcode/tree/master/3265-maximum-good-subarray-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/slavah8/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
