@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2118-maximum-earnings-from-taxi](https://github.com/slavah8/leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/slavah8/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-two-best-non-overlapping-events](https://github.com/slavah8/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/slavah8/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2213-find-all-people-with-secret](https://github.com/slavah8/leetcode/tree/master/2213-find-all-people-with-secret) |
@@ -1804,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/slavah8/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/slavah8/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/slavah8/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/slavah8/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/slavah8/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -2089,6 +2091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/slavah8/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
