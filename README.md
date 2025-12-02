@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/slavah8/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -2074,6 +2075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/slavah8/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/slavah8/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/slavah8/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
