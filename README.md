@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1917-maximum-average-pass-ratio](https://github.com/slavah8/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1918-kth-smallest-subarray-sum](https://github.com/slavah8/leetcode/tree/master/1918-kth-smallest-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1962-single-threaded-cpu](https://github.com/slavah8/leetcode/tree/master/1962-single-threaded-cpu) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/slavah8/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1891-count-pairs-of-nodes](https://github.com/slavah8/leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/slavah8/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1918-kth-smallest-subarray-sum](https://github.com/slavah8/leetcode/tree/master/1918-kth-smallest-subarray-sum) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/slavah8/leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
@@ -2437,6 +2439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/slavah8/leetcode/tree/master/1622-max-value-of-equation) |
 | [1755-defuse-the-bomb](https://github.com/slavah8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/slavah8/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1918-kth-smallest-subarray-sum](https://github.com/slavah8/leetcode/tree/master/1918-kth-smallest-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
