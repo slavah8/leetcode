@@ -1201,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/slavah8/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/slavah8/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/slavah8/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/slavah8/leetcode/tree/master/1731-even-odd-tree) |
@@ -1496,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/slavah8/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1562-find-latest-group-of-size-m](https://github.com/slavah8/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1643,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/slavah8/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1665-diameter-of-n-ary-tree) |
@@ -1967,6 +1971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1891-count-pairs-of-nodes](https://github.com/slavah8/leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1983-maximum-population-year](https://github.com/slavah8/leetcode/tree/master/1983-maximum-population-year) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
