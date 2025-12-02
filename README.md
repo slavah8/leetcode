@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/slavah8/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/slavah8/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/slavah8/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/slavah8/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/slavah8/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/slavah8/leetcode/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/slavah8/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/slavah8/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/slavah8/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/slavah8/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2118-maximum-earnings-from-taxi](https://github.com/slavah8/leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -2464,6 +2466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-kth-smallest-subarray-sum](https://github.com/slavah8/leetcode/tree/master/1918-kth-smallest-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/slavah8/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/slavah8/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -2549,6 +2552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/slavah8/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
