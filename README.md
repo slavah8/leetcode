@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/slavah8/leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/slavah8/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/slavah8/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1983-maximum-population-year](https://github.com/slavah8/leetcode/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -2080,6 +2081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/slavah8/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/slavah8/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -2109,6 +2111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
