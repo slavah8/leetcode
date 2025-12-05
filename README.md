@@ -2085,6 +2085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/slavah8/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1012-numbers-with-repeated-digits](https://github.com/slavah8/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
@@ -2370,6 +2371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-distinct-subsequences-ii](https://github.com/slavah8/leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
+| [1012-numbers-with-repeated-digits](https://github.com/slavah8/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1020-longest-turbulent-subarray](https://github.com/slavah8/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/slavah8/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
