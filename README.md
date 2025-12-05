@@ -2061,6 +2061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/slavah8/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/slavah8/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/slavah8/leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/slavah8/leetcode/tree/master/0282-expression-add-operators) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
@@ -2324,6 +2325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/slavah8/leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
 | [0312-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0312-burst-balloons) |
@@ -3114,6 +3116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/slavah8/leetcode/tree/master/0233-number-of-digit-one) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0785-basic-calculator-iii](https://github.com/slavah8/leetcode/tree/master/0785-basic-calculator-iii) |
 | [0791-split-bst](https://github.com/slavah8/leetcode/tree/master/0791-split-bst) |
