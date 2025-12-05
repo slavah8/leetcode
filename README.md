@@ -2088,6 +2088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/slavah8/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1067-digit-count-in-range](https://github.com/slavah8/leetcode/tree/master/1067-digit-count-in-range) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
 | [1151-stepping-numbers](https://github.com/slavah8/leetcode/tree/master/1151-stepping-numbers) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
@@ -2378,6 +2379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/slavah8/leetcode/tree/master/1048-longest-string-chain) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
 | [1067-campus-bikes-ii](https://github.com/slavah8/leetcode/tree/master/1067-campus-bikes-ii) |
+| [1067-digit-count-in-range](https://github.com/slavah8/leetcode/tree/master/1067-digit-count-in-range) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/slavah8/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
