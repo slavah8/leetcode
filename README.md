@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/slavah8/leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/slavah8/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -2259,6 +2260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/slavah8/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/slavah8/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/slavah8/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
