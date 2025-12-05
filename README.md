@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/slavah8/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0929-unique-email-addresses](https://github.com/slavah8/leetcode/tree/master/0929-unique-email-addresses) |
 | [0934-shortest-bridge](https://github.com/slavah8/leetcode/tree/master/0934-shortest-bridge) |
 | [0941-sort-array-by-parity](https://github.com/slavah8/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/slavah8/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/slavah8/leetcode/tree/master/0878-shifting-letters) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/slavah8/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/slavah8/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0929-unique-email-addresses](https://github.com/slavah8/leetcode/tree/master/0929-unique-email-addresses) |
 | [0953-reverse-only-letters](https://github.com/slavah8/leetcode/tree/master/0953-reverse-only-letters) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/slavah8/leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0977-distinct-subsequences-ii](https://github.com/slavah8/leetcode/tree/master/0977-distinct-subsequences-ii) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/slavah8/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0924-fair-candy-swap](https://github.com/slavah8/leetcode/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0929-unique-email-addresses](https://github.com/slavah8/leetcode/tree/master/0929-unique-email-addresses) |
 | [0959-3sum-with-multiplicity](https://github.com/slavah8/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
