@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-smallest-sufficient-team](https://github.com/slavah8/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/slavah8/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/slavah8/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1231-divide-chocolate](https://github.com/slavah8/leetcode/tree/master/1231-divide-chocolate) |
 | [1234-number-of-paths-with-max-score](https://github.com/slavah8/leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1239-largest-1-bordered-square](https://github.com/slavah8/leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1242-matrix-block-sum](https://github.com/slavah8/leetcode/tree/master/1242-matrix-block-sum) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1231-divide-chocolate](https://github.com/slavah8/leetcode/tree/master/1231-divide-chocolate) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
