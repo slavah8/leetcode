@@ -2091,6 +2091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/slavah8/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
+| [1056-confusing-number](https://github.com/slavah8/leetcode/tree/master/1056-confusing-number) |
 | [1067-digit-count-in-range](https://github.com/slavah8/leetcode/tree/master/1067-digit-count-in-range) |
 | [1086-divisor-game](https://github.com/slavah8/leetcode/tree/master/1086-divisor-game) |
 | [1088-confusing-number-ii](https://github.com/slavah8/leetcode/tree/master/1088-confusing-number-ii) |
