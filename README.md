@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/slavah8/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/slavah8/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0247-strobogrammatic-number-ii](https://github.com/slavah8/leetcode/tree/master/0247-strobogrammatic-number-ii) |
+| [0248-strobogrammatic-number-iii](https://github.com/slavah8/leetcode/tree/master/0248-strobogrammatic-number-iii) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0245-shortest-word-distance-iii](https://github.com/slavah8/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0246-strobogrammatic-number](https://github.com/slavah8/leetcode/tree/master/0246-strobogrammatic-number) |
 | [0247-strobogrammatic-number-ii](https://github.com/slavah8/leetcode/tree/master/0247-strobogrammatic-number-ii) |
+| [0248-strobogrammatic-number-iii](https://github.com/slavah8/leetcode/tree/master/0248-strobogrammatic-number-iii) |
 | [0266-palindrome-permutation](https://github.com/slavah8/leetcode/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/slavah8/leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
@@ -3131,6 +3133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/slavah8/leetcode/tree/master/0233-number-of-digit-one) |
 | [0247-strobogrammatic-number-ii](https://github.com/slavah8/leetcode/tree/master/0247-strobogrammatic-number-ii) |
+| [0248-strobogrammatic-number-iii](https://github.com/slavah8/leetcode/tree/master/0248-strobogrammatic-number-iii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0785-basic-calculator-iii](https://github.com/slavah8/leetcode/tree/master/0785-basic-calculator-iii) |
 | [0791-split-bst](https://github.com/slavah8/leetcode/tree/master/0791-split-bst) |
