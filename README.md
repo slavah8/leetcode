@@ -1832,6 +1832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/slavah8/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/slavah8/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -2107,6 +2108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/slavah8/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/slavah8/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
