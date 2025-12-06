@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0699-falling-squares](https://github.com/slavah8/leetcode/tree/master/0699-falling-squares) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/slavah8/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/slavah8/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1850,6 +1851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/slavah8/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/slavah8/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
@@ -2422,6 +2424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/slavah8/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/slavah8/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0727-minimum-window-subsequence](https://github.com/slavah8/leetcode/tree/master/0727-minimum-window-subsequence) |
 | [0740-delete-and-earn](https://github.com/slavah8/leetcode/tree/master/0740-delete-and-earn) |
