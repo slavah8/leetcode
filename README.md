@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/slavah8/leetcode/tree/master/0878-shifting-letters) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/slavah8/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/slavah8/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0925-long-pressed-name](https://github.com/slavah8/leetcode/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/slavah8/leetcode/tree/master/0929-unique-email-addresses) |
 | [0953-reverse-only-letters](https://github.com/slavah8/leetcode/tree/master/0953-reverse-only-letters) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/slavah8/leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -2259,6 +2260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/slavah8/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0925-long-pressed-name](https://github.com/slavah8/leetcode/tree/master/0925-long-pressed-name) |
 | [0941-sort-array-by-parity](https://github.com/slavah8/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/slavah8/leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/slavah8/leetcode/tree/master/0958-sort-array-by-parity-ii) |
