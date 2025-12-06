@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1816-truncate-sentence](https://github.com/slavah8/leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/slavah8/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/slavah8/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/slavah8/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/slavah8/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1816-truncate-sentence](https://github.com/slavah8/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/slavah8/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
