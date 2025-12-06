@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-valid-palindrome-iii](https://github.com/slavah8/leetcode/tree/master/1178-valid-palindrome-iii) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/slavah8/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/slavah8/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -1844,6 +1845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-shortest-way-to-form-string](https://github.com/slavah8/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/slavah8/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/slavah8/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/slavah8/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -2041,6 +2043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/slavah8/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/slavah8/leetcode/tree/master/1512-number-of-good-pairs) |
