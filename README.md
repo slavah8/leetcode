@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/slavah8/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/slavah8/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/slavah8/leetcode/tree/master/0978-valid-mountain-array) |
@@ -1514,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/slavah8/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/slavah8/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/slavah8/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/slavah8/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
