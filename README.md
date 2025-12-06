@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/slavah8/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/slavah8/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
+| [1528-shuffle-string](https://github.com/slavah8/leetcode/tree/master/1528-shuffle-string) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/slavah8/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/slavah8/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1528-shuffle-string](https://github.com/slavah8/leetcode/tree/master/1528-shuffle-string) |
 | [1542-consecutive-characters](https://github.com/slavah8/leetcode/tree/master/1542-consecutive-characters) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/slavah8/leetcode/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/slavah8/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
