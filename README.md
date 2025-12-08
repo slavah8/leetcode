@@ -1383,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1602-find-nearest-right-node-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/slavah8/leetcode/tree/master/1731-even-odd-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1751,6 +1752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1602-find-nearest-right-node-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1665-diameter-of-n-ary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
@@ -1841,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1602-find-nearest-right-node-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
 | [1731-even-odd-tree](https://github.com/slavah8/leetcode/tree/master/1731-even-odd-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
