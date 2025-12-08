@@ -816,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/slavah8/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/slavah8/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/slavah8/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2129-capitalize-the-title](https://github.com/slavah8/leetcode/tree/master/2129-capitalize-the-title) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2165-plates-between-candles](https://github.com/slavah8/leetcode/tree/master/2165-plates-between-candles) |
