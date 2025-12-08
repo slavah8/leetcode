@@ -827,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/slavah8/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/slavah8/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -1618,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/slavah8/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2455-node-with-highest-edge-score](https://github.com/slavah8/leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -3222,6 +3224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
