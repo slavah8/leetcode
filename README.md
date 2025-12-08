@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1528-shuffle-string](https://github.com/slavah8/leetcode/tree/master/1528-shuffle-string) |
 | [1542-consecutive-characters](https://github.com/slavah8/leetcode/tree/master/1542-consecutive-characters) |
+| [1544-make-the-string-great](https://github.com/slavah8/leetcode/tree/master/1544-make-the-string-great) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/slavah8/leetcode/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/slavah8/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/slavah8/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -3041,6 +3042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-longest-well-performing-interval](https://github.com/slavah8/leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/slavah8/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1544-make-the-string-great](https://github.com/slavah8/leetcode/tree/master/1544-make-the-string-great) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/slavah8/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/slavah8/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
