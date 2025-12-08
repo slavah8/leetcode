@@ -2259,6 +2259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/slavah8/leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/slavah8/leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/slavah8/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/slavah8/leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2835-split-a-circular-linked-list](https://github.com/slavah8/leetcode/tree/master/2835-split-a-circular-linked-list) |
 | [3359-linked-list-frequency](https://github.com/slavah8/leetcode/tree/master/3359-linked-list-frequency) |
