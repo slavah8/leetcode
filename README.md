@@ -1572,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/slavah8/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/slavah8/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/slavah8/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1219-longest-well-performing-interval](https://github.com/slavah8/leetcode/tree/master/1219-longest-well-performing-interval) |
@@ -2249,6 +2250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/slavah8/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/slavah8/leetcode/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1484-linked-list-in-binary-tree) |
