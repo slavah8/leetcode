@@ -1253,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/slavah8/leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0965-univalued-binary-tree](https://github.com/slavah8/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/slavah8/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -1355,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/slavah8/leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0960-minimize-malware-spread](https://github.com/slavah8/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0965-univalued-binary-tree](https://github.com/slavah8/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/slavah8/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1726,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/slavah8/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/slavah8/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -1819,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/slavah8/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/slavah8/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/slavah8/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
