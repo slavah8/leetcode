@@ -1304,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/slavah8/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2584-number-of-nodes-with-value-one](https://github.com/slavah8/leetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/slavah8/leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/slavah8/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/slavah8/leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1767,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2584-number-of-nodes-with-value-one](https://github.com/slavah8/leetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/slavah8/leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/slavah8/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1848,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2584-number-of-nodes-with-value-one](https://github.com/slavah8/leetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/slavah8/leetcode/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2918-is-array-a-preorder-of-some-binary-tree](https://github.com/slavah8/leetcode/tree/master/2918-is-array-a-preorder-of-some-binary-tree) |
 | [2944-height-of-special-binary-tree](https://github.com/slavah8/leetcode/tree/master/2944-height-of-special-binary-tree) |
