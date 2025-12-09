@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/slavah8/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/slavah8/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/slavah8/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2349-design-a-number-container-system](https://github.com/slavah8/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2379-maximum-total-importance-of-roads](https://github.com/slavah8/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/slavah8/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -1197,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/slavah8/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2349-design-a-number-container-system](https://github.com/slavah8/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/slavah8/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -1650,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
+| [2349-design-a-number-container-system](https://github.com/slavah8/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2455-node-with-highest-edge-score](https://github.com/slavah8/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2479-meeting-rooms-iii](https://github.com/slavah8/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -2161,6 +2164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/slavah8/leetcode/tree/master/1845-seat-reservation-manager) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2080-range-frequency-queries](https://github.com/slavah8/leetcode/tree/master/2080-range-frequency-queries) |
+| [2349-design-a-number-container-system](https://github.com/slavah8/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Math
