@@ -2873,6 +2873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/slavah8/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2291-maximum-and-sum-of-array](https://github.com/slavah8/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/slavah8/leetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
