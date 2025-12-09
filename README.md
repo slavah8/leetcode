@@ -3035,6 +3035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-weather-type-in-each-country](https://github.com/slavah8/leetcode/tree/master/1294-weather-type-in-each-country) |
 | [1301-reformat-department-table](https://github.com/slavah8/leetcode/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/slavah8/leetcode/tree/master/1317-monthly-transactions-i) |
+| [1322-ads-performance](https://github.com/slavah8/leetcode/tree/master/1322-ads-performance) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/slavah8/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1339-team-scores-in-football-tournament](https://github.com/slavah8/leetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1357-report-contiguous-dates](https://github.com/slavah8/leetcode/tree/master/1357-report-contiguous-dates) |
