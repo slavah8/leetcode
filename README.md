@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/slavah8/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/slavah8/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/slavah8/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1920,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/slavah8/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/slavah8/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/slavah8/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/slavah8/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -3278,6 +3280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/slavah8/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
