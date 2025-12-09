@@ -3040,6 +3040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-team-scores-in-football-tournament](https://github.com/slavah8/leetcode/tree/master/1339-team-scores-in-football-tournament) |
 | [1357-report-contiguous-dates](https://github.com/slavah8/leetcode/tree/master/1357-report-contiguous-dates) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/slavah8/leetcode/tree/master/1405-all-people-report-to-the-given-manager) |
+| [1407-top-travellers](https://github.com/slavah8/leetcode/tree/master/1407-top-travellers) |
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/slavah8/leetcode/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1438-find-the-team-size](https://github.com/slavah8/leetcode/tree/master/1438-find-the-team-size) |
 | [1439-running-total-for-different-genders](https://github.com/slavah8/leetcode/tree/master/1439-running-total-for-different-genders) |
