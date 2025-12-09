@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0370-range-addition](https://github.com/slavah8/leetcode/tree/master/0370-range-addition) |
 | [0377-combination-sum-iv](https://github.com/slavah8/leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/slavah8/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
@@ -1531,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/slavah8/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0348-design-tic-tac-toe](https://github.com/slavah8/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/slavah8/leetcode/tree/master/0359-logger-rate-limiter) |
+| [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
 | [0383-ransom-note](https://github.com/slavah8/leetcode/tree/master/0383-ransom-note) |
 | [0480-sliding-window-median](https://github.com/slavah8/leetcode/tree/master/0480-sliding-window-median) |
 | [0508-most-frequent-subtree-sum](https://github.com/slavah8/leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -2142,6 +2144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/slavah8/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/slavah8/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/slavah8/leetcode/tree/master/0362-design-hit-counter) |
+| [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
@@ -2279,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/slavah8/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/slavah8/leetcode/tree/master/0086-partition-list) |
 | [0369-plus-one-linked-list](https://github.com/slavah8/leetcode/tree/master/0369-plus-one-linked-list) |
+| [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
@@ -2905,6 +2909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/slavah8/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/slavah8/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/slavah8/leetcode/tree/master/0362-design-hit-counter) |
+| [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
