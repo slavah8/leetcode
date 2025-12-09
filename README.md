@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/slavah8/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0699-falling-squares](https://github.com/slavah8/leetcode/tree/master/0699-falling-squares) |
+| [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/slavah8/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/slavah8/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1547,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0681-next-closest-time](https://github.com/slavah8/leetcode/tree/master/0681-next-closest-time) |
 | [0691-stickers-to-spell-word](https://github.com/slavah8/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
+| [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
 | [0740-delete-and-earn](https://github.com/slavah8/leetcode/tree/master/0740-delete-and-earn) |
@@ -2138,6 +2140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/slavah8/leetcode/tree/master/0362-design-hit-counter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
+| [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
@@ -2270,6 +2273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/slavah8/leetcode/tree/master/0086-partition-list) |
 | [0369-plus-one-linked-list](https://github.com/slavah8/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/slavah8/leetcode/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -2941,6 +2945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
+| [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1060-longest-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1060-longest-repeating-substring) |
