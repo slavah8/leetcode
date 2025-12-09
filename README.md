@@ -3055,6 +3055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-capital-gainloss](https://github.com/slavah8/leetcode/tree/master/1523-capital-gainloss) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/slavah8/leetcode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1565-unique-orders-and-customers-per-month](https://github.com/slavah8/leetcode/tree/master/1565-unique-orders-and-customers-per-month) |
+| [1571-warehouse-manager](https://github.com/slavah8/leetcode/tree/master/1571-warehouse-manager) |
 | [1578-apples-oranges](https://github.com/slavah8/leetcode/tree/master/1578-apples-oranges) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/slavah8/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/slavah8/leetcode/tree/master/1587-bank-account-summary-ii) |
