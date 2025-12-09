@@ -3061,6 +3061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/slavah8/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1608-calculate-salaries](https://github.com/slavah8/leetcode/tree/master/1608-calculate-salaries) |
 | [1623-sales-by-day-of-the-week](https://github.com/slavah8/leetcode/tree/master/1623-sales-by-day-of-the-week) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/slavah8/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1664-find-users-with-valid-e-mails](https://github.com/slavah8/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/slavah8/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1671-the-most-recent-three-orders](https://github.com/slavah8/leetcode/tree/master/1671-the-most-recent-three-orders) |
