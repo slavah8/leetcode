@@ -3048,6 +3048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/slavah8/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/slavah8/leetcode/tree/master/1480-movie-rating) |
 | [1481-students-with-invalid-departments](https://github.com/slavah8/leetcode/tree/master/1481-students-with-invalid-departments) |
+| [1484-group-sold-products-by-the-date](https://github.com/slavah8/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1495-number-of-trusted-contacts-of-a-customer](https://github.com/slavah8/leetcode/tree/master/1495-number-of-trusted-contacts-of-a-customer) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/slavah8/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/slavah8/leetcode/tree/master/1523-capital-gainloss) |
