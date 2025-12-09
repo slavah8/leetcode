@@ -2142,6 +2142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/slavah8/leetcode/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
@@ -2275,6 +2276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/slavah8/leetcode/tree/master/0707-design-linked-list) |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/slavah8/leetcode/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/slavah8/leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
