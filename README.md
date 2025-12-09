@@ -2829,6 +2829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/slavah8/leetcode/tree/master/0089-gray-code) |
 | [0266-palindrome-permutation](https://github.com/slavah8/leetcode/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/slavah8/leetcode/tree/master/0320-generalized-abbreviation) |
+| [0461-hamming-distance](https://github.com/slavah8/leetcode/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/slavah8/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/slavah8/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
