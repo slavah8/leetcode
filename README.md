@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-brace-expansion](https://github.com/slavah8/leetcode/tree/master/1087-brace-expansion) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/slavah8/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
+| [1244-design-a-leaderboard](https://github.com/slavah8/leetcode/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
@@ -1596,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1219-longest-well-performing-interval](https://github.com/slavah8/leetcode/tree/master/1219-longest-well-performing-interval) |
+| [1244-design-a-leaderboard](https://github.com/slavah8/leetcode/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/slavah8/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -2158,6 +2160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
+| [1244-design-a-leaderboard](https://github.com/slavah8/leetcode/tree/master/1244-design-a-leaderboard) |
 | [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
