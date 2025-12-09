@@ -3051,6 +3051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/slavah8/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1495-number-of-trusted-contacts-of-a-customer](https://github.com/slavah8/leetcode/tree/master/1495-number-of-trusted-contacts-of-a-customer) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/slavah8/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1511-customer-order-frequency](https://github.com/slavah8/leetcode/tree/master/1511-customer-order-frequency) |
 | [1523-capital-gainloss](https://github.com/slavah8/leetcode/tree/master/1523-capital-gainloss) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/slavah8/leetcode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1578-apples-oranges](https://github.com/slavah8/leetcode/tree/master/1578-apples-oranges) |
