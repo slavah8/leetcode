@@ -3102,6 +3102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-count-artist-occurrences-on-spotify-ranking-list](https://github.com/slavah8/leetcode/tree/master/2669-count-artist-occurrences-on-spotify-ranking-list) |
 | [2837-total-traveled-distance](https://github.com/slavah8/leetcode/tree/master/2837-total-traveled-distance) |
 | [2853-highest-salaries-difference](https://github.com/slavah8/leetcode/tree/master/2853-highest-salaries-difference) |
+| [3053-classifying-triangles-by-lengths](https://github.com/slavah8/leetcode/tree/master/3053-classifying-triangles-by-lengths) |
 | [3259-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/3259-binary-tree-nodes) |
 | [3570-find-books-with-no-available-copies](https://github.com/slavah8/leetcode/tree/master/3570-find-books-with-no-available-copies) |
 ## Monotonic Queue
