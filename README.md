@@ -3077,6 +3077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1958-ad-free-sessions](https://github.com/slavah8/leetcode/tree/master/1958-ad-free-sessions) |
 | [2057-count-salary-categories](https://github.com/slavah8/leetcode/tree/master/2057-count-salary-categories) |
 | [2072-the-winner-university](https://github.com/slavah8/leetcode/tree/master/2072-the-winner-university) |
+| [2082-the-number-of-rich-customers](https://github.com/slavah8/leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2087-confirmation-rate](https://github.com/slavah8/leetcode/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/slavah8/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
