@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/slavah8/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/slavah8/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2468-valid-palindrome-iv](https://github.com/slavah8/leetcode/tree/master/2468-valid-palindrome-iv) |
@@ -2695,6 +2696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/slavah8/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/slavah8/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/slavah8/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/slavah8/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/slavah8/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
