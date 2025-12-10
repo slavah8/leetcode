@@ -3059,6 +3059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-apples-oranges](https://github.com/slavah8/leetcode/tree/master/1578-apples-oranges) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/slavah8/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/slavah8/leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1607-sellers-with-no-sales](https://github.com/slavah8/leetcode/tree/master/1607-sellers-with-no-sales) |
 | [1608-calculate-salaries](https://github.com/slavah8/leetcode/tree/master/1608-calculate-salaries) |
 | [1623-sales-by-day-of-the-week](https://github.com/slavah8/leetcode/tree/master/1623-sales-by-day-of-the-week) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/slavah8/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
