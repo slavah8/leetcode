@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/slavah8/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/slavah8/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1028-interval-list-intersections](https://github.com/slavah8/leetcode/tree/master/1028-interval-list-intersections) |
+| [1029-two-city-scheduling](https://github.com/slavah8/leetcode/tree/master/1029-two-city-scheduling) |
 | [1032-satisfiability-of-equality-equations](https://github.com/slavah8/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1029-two-city-scheduling](https://github.com/slavah8/leetcode/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/slavah8/leetcode/tree/master/1048-longest-string-chain) |
 | [1074-high-five](https://github.com/slavah8/leetcode/tree/master/1074-high-five) |
 | [1083-two-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/1083-two-sum-less-than-k) |
@@ -1926,6 +1928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/slavah8/leetcode/tree/master/1029-two-city-scheduling) |
 | [1051-shortest-way-to-form-string](https://github.com/slavah8/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/slavah8/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
