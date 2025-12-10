@@ -3086,6 +3086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
 | [2452-product-sales-analysis-v](https://github.com/slavah8/leetcode/tree/master/2452-product-sales-analysis-v) |
 | [2669-count-artist-occurrences-on-spotify-ranking-list](https://github.com/slavah8/leetcode/tree/master/2669-count-artist-occurrences-on-spotify-ranking-list) |
+| [2837-total-traveled-distance](https://github.com/slavah8/leetcode/tree/master/2837-total-traveled-distance) |
 | [3259-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/3259-binary-tree-nodes) |
 ## Monotonic Queue
 |  |
