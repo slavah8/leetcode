@@ -3066,6 +3066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/slavah8/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1671-the-most-recent-three-orders](https://github.com/slavah8/leetcode/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/slavah8/leetcode/tree/master/1688-the-most-recent-orders-for-each-product) |
+| [1729-find-followers-count](https://github.com/slavah8/leetcode/tree/master/1729-find-followers-count) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/slavah8/leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1801-average-time-of-process-per-machine](https://github.com/slavah8/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/slavah8/leetcode/tree/master/1811-fix-names-in-a-table) |
