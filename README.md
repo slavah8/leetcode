@@ -3069,6 +3069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/slavah8/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/slavah8/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1671-the-most-recent-three-orders](https://github.com/slavah8/leetcode/tree/master/1671-the-most-recent-three-orders) |
+| [1683-invalid-tweets](https://github.com/slavah8/leetcode/tree/master/1683-invalid-tweets) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/slavah8/leetcode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1729-find-followers-count](https://github.com/slavah8/leetcode/tree/master/1729-find-followers-count) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/slavah8/leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
