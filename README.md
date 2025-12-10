@@ -3073,6 +3073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-the-most-recent-orders-for-each-product](https://github.com/slavah8/leetcode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1729-find-followers-count](https://github.com/slavah8/leetcode/tree/master/1729-find-followers-count) |
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/slavah8/leetcode/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/slavah8/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/slavah8/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/slavah8/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/slavah8/leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
