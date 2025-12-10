@@ -3086,6 +3086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/slavah8/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/slavah8/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2185-accepted-candidates-from-the-interviews](https://github.com/slavah8/leetcode/tree/master/2185-accepted-candidates-from-the-interviews) |
+| [2339-all-the-matches-of-the-league](https://github.com/slavah8/leetcode/tree/master/2339-all-the-matches-of-the-league) |
 | [2440-tasks-count-in-the-weekend](https://github.com/slavah8/leetcode/tree/master/2440-tasks-count-in-the-weekend) |
 | [2451-product-sales-analysis-iv](https://github.com/slavah8/leetcode/tree/master/2451-product-sales-analysis-iv) |
 | [2452-product-sales-analysis-v](https://github.com/slavah8/leetcode/tree/master/2452-product-sales-analysis-v) |
