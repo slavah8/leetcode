@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/slavah8/leetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/slavah8/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/slavah8/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
@@ -2716,6 +2717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2890-count-substrings-without-repeating-character](https://github.com/slavah8/leetcode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/slavah8/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/slavah8/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/slavah8/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/slavah8/leetcode/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/slavah8/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -2921,6 +2923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/slavah8/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/slavah8/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
