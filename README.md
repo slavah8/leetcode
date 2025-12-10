@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/slavah8/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/slavah8/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/slavah8/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1651,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2240-intervals-between-identical-elements](https://github.com/slavah8/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/slavah8/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/slavah8/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/slavah8/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -2688,6 +2690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/slavah8/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/slavah8/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/slavah8/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/slavah8/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
