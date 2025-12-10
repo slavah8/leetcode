@@ -3078,6 +3078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-users-that-actively-request-confirmation-messages](https://github.com/slavah8/leetcode/tree/master/1939-users-that-actively-request-confirmation-messages) |
 | [1942-primary-department-for-each-employee](https://github.com/slavah8/leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1958-ad-free-sessions](https://github.com/slavah8/leetcode/tree/master/1958-ad-free-sessions) |
+| [2026-low-quality-problems](https://github.com/slavah8/leetcode/tree/master/2026-low-quality-problems) |
 | [2057-count-salary-categories](https://github.com/slavah8/leetcode/tree/master/2057-count-salary-categories) |
 | [2072-the-winner-university](https://github.com/slavah8/leetcode/tree/master/2072-the-winner-university) |
 | [2082-the-number-of-rich-customers](https://github.com/slavah8/leetcode/tree/master/2082-the-number-of-rich-customers) |
