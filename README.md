@@ -3051,6 +3051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-students-with-invalid-departments](https://github.com/slavah8/leetcode/tree/master/1481-students-with-invalid-departments) |
 | [1484-group-sold-products-by-the-date](https://github.com/slavah8/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1495-number-of-trusted-contacts-of-a-customer](https://github.com/slavah8/leetcode/tree/master/1495-number-of-trusted-contacts-of-a-customer) |
+| [1495-friendly-movies-streamed-last-month](https://github.com/slavah8/leetcode/tree/master/1495-friendly-movies-streamed-last-month) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/slavah8/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1511-customer-order-frequency](https://github.com/slavah8/leetcode/tree/master/1511-customer-order-frequency) |
 | [1523-capital-gainloss](https://github.com/slavah8/leetcode/tree/master/1523-capital-gainloss) |
