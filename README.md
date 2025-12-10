@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/slavah8/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/slavah8/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/slavah8/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/slavah8/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/slavah8/leetcode/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -2671,6 +2672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/slavah8/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/slavah8/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/slavah8/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -2745,6 +2747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/slavah8/leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/slavah8/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
