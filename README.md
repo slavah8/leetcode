@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/slavah8/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/slavah8/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/slavah8/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/slavah8/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -2258,6 +2259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/slavah8/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/slavah8/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -2691,6 +2693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/slavah8/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/slavah8/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/slavah8/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/slavah8/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/slavah8/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/slavah8/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
