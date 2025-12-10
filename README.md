@@ -3077,6 +3077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/slavah8/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/slavah8/leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1853-convert-date-format](https://github.com/slavah8/leetcode/tree/master/1853-convert-date-format) |
+| [1873-calculate-special-bonus](https://github.com/slavah8/leetcode/tree/master/1873-calculate-special-bonus) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/slavah8/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1914-find-the-subtasks-that-did-not-execute](https://github.com/slavah8/leetcode/tree/master/1914-find-the-subtasks-that-did-not-execute) |
 | [1932-grand-slam-titles](https://github.com/slavah8/leetcode/tree/master/1932-grand-slam-titles) |
