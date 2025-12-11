@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/slavah8/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
 | [0762-find-anagram-mappings](https://github.com/slavah8/leetcode/tree/master/0762-find-anagram-mappings) |
+| [0766-toeplitz-matrix](https://github.com/slavah8/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
@@ -2082,6 +2083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/slavah8/leetcode/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/slavah8/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
 | [0803-bricks-falling-when-hit](https://github.com/slavah8/leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
