@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/slavah8/leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0831-largest-sum-of-averages](https://github.com/slavah8/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
+| [0835-image-overlap](https://github.com/slavah8/leetcode/tree/master/0835-image-overlap) |
 | [0837-most-common-word](https://github.com/slavah8/leetcode/tree/master/0837-most-common-word) |
 | [0839-similar-string-groups](https://github.com/slavah8/leetcode/tree/master/0839-similar-string-groups) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -2089,6 +2090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
 | [0803-bricks-falling-when-hit](https://github.com/slavah8/leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/slavah8/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0835-image-overlap](https://github.com/slavah8/leetcode/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
 | [0934-shortest-bridge](https://github.com/slavah8/leetcode/tree/master/0934-shortest-bridge) |
