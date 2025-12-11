@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/slavah8/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1146-snapshot-array](https://github.com/slavah8/leetcode/tree/master/1146-snapshot-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
 | [1168-duplicate-zeros](https://github.com/slavah8/leetcode/tree/master/1168-duplicate-zeros) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1122-longest-duplicate-substring](https://github.com/slavah8/leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
+| [1146-snapshot-array](https://github.com/slavah8/leetcode/tree/master/1146-snapshot-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1150-two-sum-bsts](https://github.com/slavah8/leetcode/tree/master/1150-two-sum-bsts) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
@@ -1622,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/slavah8/leetcode/tree/master/1074-high-five) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/slavah8/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/slavah8/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1146-snapshot-array](https://github.com/slavah8/leetcode/tree/master/1146-snapshot-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/slavah8/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
@@ -2209,6 +2212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
+| [1146-snapshot-array](https://github.com/slavah8/leetcode/tree/master/1146-snapshot-array) |
 | [1211-iterator-for-combination](https://github.com/slavah8/leetcode/tree/master/1211-iterator-for-combination) |
 | [1244-design-a-leaderboard](https://github.com/slavah8/leetcode/tree/master/1244-design-a-leaderboard) |
 | [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
