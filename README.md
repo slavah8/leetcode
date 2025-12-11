@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/slavah8/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
+| [0861-score-after-flipping-matrix](https://github.com/slavah8/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/slavah8/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/slavah8/leetcode/tree/master/0878-shifting-letters) |
 | [0879-maximize-distance-to-closest-person](https://github.com/slavah8/leetcode/tree/master/0879-maximize-distance-to-closest-person) |
@@ -1936,6 +1937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/slavah8/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0861-score-after-flipping-matrix](https://github.com/slavah8/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/slavah8/leetcode/tree/master/1029-two-city-scheduling) |
@@ -2095,6 +2097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/slavah8/leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/slavah8/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
+| [0861-score-after-flipping-matrix](https://github.com/slavah8/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
 | [0934-shortest-bridge](https://github.com/slavah8/leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
@@ -2908,6 +2911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/slavah8/leetcode/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/slavah8/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0861-score-after-flipping-matrix](https://github.com/slavah8/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/slavah8/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0957-prison-cells-after-n-days](https://github.com/slavah8/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
