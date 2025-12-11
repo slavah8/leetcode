@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/slavah8/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/slavah8/leetcode/tree/master/0645-set-mismatch) |
 | [0656-coin-path](https://github.com/slavah8/leetcode/tree/master/0656-coin-path) |
+| [0661-image-smoother](https://github.com/slavah8/leetcode/tree/master/0661-image-smoother) |
 | [0666-path-sum-iv](https://github.com/slavah8/leetcode/tree/master/0666-path-sum-iv) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -2080,6 +2081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0531-lonely-pixel-i](https://github.com/slavah8/leetcode/tree/master/0531-lonely-pixel-i) |
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/slavah8/leetcode/tree/master/0661-image-smoother) |
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
 | [0803-bricks-falling-when-hit](https://github.com/slavah8/leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/slavah8/leetcode/tree/master/0854-making-a-large-island) |
