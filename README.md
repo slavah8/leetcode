@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/slavah8/leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
 | [2045-cutting-ribbons](https://github.com/slavah8/leetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/slavah8/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1680,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/slavah8/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/slavah8/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/slavah8/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -2236,6 +2238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
 | [1845-seat-reservation-manager](https://github.com/slavah8/leetcode/tree/master/1845-seat-reservation-manager) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/slavah8/leetcode/tree/master/1949-implement-trie-ii-prefix-tree) |
+| [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/slavah8/leetcode/tree/master/2080-range-frequency-queries) |
 | [2349-design-a-number-container-system](https://github.com/slavah8/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
@@ -2501,6 +2504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/slavah8/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/slavah8/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/slavah8/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/slavah8/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/slavah8/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/slavah8/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
