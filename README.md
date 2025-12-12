@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/slavah8/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -2122,6 +2123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/slavah8/leetcode/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/slavah8/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
@@ -2495,6 +2497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1562-find-latest-group-of-size-m](https://github.com/slavah8/leetcode/tree/master/1562-find-latest-group-of-size-m) |
