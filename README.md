@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/slavah8/leetcode/tree/master/0499-the-maze-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/slavah8/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/slavah8/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/slavah8/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
 | [0541-reverse-string-ii](https://github.com/slavah8/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/slavah8/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -1582,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0531-lonely-pixel-i](https://github.com/slavah8/leetcode/tree/master/0531-lonely-pixel-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/slavah8/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/slavah8/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/slavah8/leetcode/tree/master/0582-kill-process) |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
@@ -2213,6 +2215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
 | [0384-shuffle-an-array](https://github.com/slavah8/leetcode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0535-encode-and-decode-tinyurl](https://github.com/slavah8/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
@@ -3052,6 +3055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/slavah8/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0694-number-of-distinct-islands](https://github.com/slavah8/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
