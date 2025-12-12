@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2702-minimum-operations-to-make-numbers-non-positive](https://github.com/slavah8/leetcode/tree/master/2702-minimum-operations-to-make-numbers-non-positive) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/slavah8/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2714-left-and-right-sum-differences](https://github.com/slavah8/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/slavah8/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -1734,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/slavah8/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2721-sum-of-distances](https://github.com/slavah8/leetcode/tree/master/2721-sum-of-distances) |
 | [2751-sliding-subarray-beauty](https://github.com/slavah8/leetcode/tree/master/2751-sliding-subarray-beauty) |
@@ -2178,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/slavah8/leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2679-sum-in-a-matrix) |
+| [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/slavah8/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/slavah8/leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
