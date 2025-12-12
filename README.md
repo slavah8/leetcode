@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/slavah8/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/slavah8/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
@@ -1726,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/slavah8/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -2170,6 +2172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/slavah8/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2625-increment-submatrices-by-one](https://github.com/slavah8/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/slavah8/leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/slavah8/leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
