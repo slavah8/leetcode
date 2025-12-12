@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2584-number-of-nodes-with-value-one](https://github.com/slavah8/leetcode/tree/master/2584-number-of-nodes-with-value-one) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/slavah8/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/slavah8/leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/slavah8/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2719-count-of-integers](https://github.com/slavah8/leetcode/tree/master/2719-count-of-integers) |
@@ -1701,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/slavah8/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-count-subarrays-with-median-k](https://github.com/slavah8/leetcode/tree/master/2574-count-subarrays-with-median-k) |
+| [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/slavah8/leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -2225,6 +2229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/slavah8/leetcode/tree/master/2080-range-frequency-queries) |
 | [2349-design-a-number-container-system](https://github.com/slavah8/leetcode/tree/master/2349-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/slavah8/leetcode/tree/master/2512-longest-uploaded-prefix) |
+| [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Math
 |  |
