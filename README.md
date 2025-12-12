@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2674-make-the-prefix-sum-non-negative](https://github.com/slavah8/leetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/slavah8/leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/slavah8/leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/slavah8/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/slavah8/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/slavah8/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2612-minimum-cost-to-buy-apples](https://github.com/slavah8/leetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/slavah8/leetcode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2679-sum-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/slavah8/leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -2174,6 +2177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/slavah8/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/slavah8/leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/slavah8/leetcode/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -2539,6 +2543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/slavah8/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/slavah8/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/slavah8/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/slavah8/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
