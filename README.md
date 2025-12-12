@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/slavah8/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2012-process-tasks-using-servers](https://github.com/slavah8/leetcode/tree/master/2012-process-tasks-using-servers) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/slavah8/leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
@@ -2150,6 +2151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/slavah8/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -2512,6 +2514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/slavah8/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/slavah8/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/slavah8/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/slavah8/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/slavah8/leetcode/tree/master/2232-adding-spaces-to-a-string) |
