@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/slavah8/leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
+| [0384-shuffle-an-array](https://github.com/slavah8/leetcode/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/slavah8/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/slavah8/leetcode/tree/master/0413-arithmetic-slices) |
@@ -2210,6 +2211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/slavah8/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/slavah8/leetcode/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
+| [0384-shuffle-an-array](https://github.com/slavah8/leetcode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
@@ -2249,6 +2251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/slavah8/leetcode/tree/master/0367-valid-perfect-square) |
 | [0369-plus-one-linked-list](https://github.com/slavah8/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/slavah8/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0384-shuffle-an-array](https://github.com/slavah8/leetcode/tree/master/0384-shuffle-an-array) |
 | [0400-nth-digit](https://github.com/slavah8/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/slavah8/leetcode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/slavah8/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -3016,6 +3019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/slavah8/leetcode/tree/master/0384-shuffle-an-array) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Trie
 |  |
