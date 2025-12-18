@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3030-find-the-grid-of-region-average](https://github.com/slavah8/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/slavah8/leetcode/tree/master/3033-modify-the-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/slavah8/leetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/slavah8/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -1751,6 +1752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/slavah8/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/slavah8/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3104-find-longest-self-contained-substring](https://github.com/slavah8/leetcode/tree/master/3104-find-longest-self-contained-substring) |
 | [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
@@ -2193,6 +2195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3030-find-the-grid-of-region-average](https://github.com/slavah8/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/slavah8/leetcode/tree/master/3033-modify-the-matrix) |
+| [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3188-find-champion-i](https://github.com/slavah8/leetcode/tree/master/3188-find-champion-i) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -2230,6 +2233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/slavah8/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/slavah8/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
+| [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3359-linked-list-frequency](https://github.com/slavah8/leetcode/tree/master/3359-linked-list-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -2379,6 +2383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2719-count-of-integers](https://github.com/slavah8/leetcode/tree/master/2719-count-of-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/slavah8/leetcode/tree/master/3343-count-numbers-with-unique-digits-ii) |
@@ -2398,6 +2403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
@@ -3486,6 +3492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
