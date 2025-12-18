@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1917-maximum-average-pass-ratio](https://github.com/slavah8/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1918-kth-smallest-subarray-sum](https://github.com/slavah8/leetcode/tree/master/1918-kth-smallest-subarray-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/slavah8/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/slavah8/leetcode/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/slavah8/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -1477,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-shortest-path-to-get-food](https://github.com/slavah8/leetcode/tree/master/1730-shortest-path-to-get-food) |
 | [1731-even-odd-tree](https://github.com/slavah8/leetcode/tree/master/1731-even-odd-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/slavah8/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/slavah8/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -2204,6 +2206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-shortest-path-to-get-food](https://github.com/slavah8/leetcode/tree/master/1730-shortest-path-to-get-food) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/slavah8/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/slavah8/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/slavah8/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
