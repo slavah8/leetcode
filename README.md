@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-process-tasks-using-servers](https://github.com/slavah8/leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/slavah8/leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/slavah8/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/slavah8/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/slavah8/leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2055-describe-the-painting](https://github.com/slavah8/leetcode/tree/master/2055-describe-the-painting) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/slavah8/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -2185,6 +2187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/slavah8/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -2384,6 +2387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
