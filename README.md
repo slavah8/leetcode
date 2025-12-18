@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/slavah8/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/slavah8/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2352-equal-row-and-column-pairs](https://github.com/slavah8/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/slavah8/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -1729,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/slavah8/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2349-design-a-number-container-system](https://github.com/slavah8/leetcode/tree/master/2349-design-a-number-container-system) |
+| [2352-equal-row-and-column-pairs](https://github.com/slavah8/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/slavah8/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2479-meeting-rooms-iii](https://github.com/slavah8/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -2186,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/slavah8/leetcode/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/slavah8/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2352-equal-row-and-column-pairs](https://github.com/slavah8/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/slavah8/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -2576,6 +2579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/slavah8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/slavah8/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/slavah8/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2352-equal-row-and-column-pairs](https://github.com/slavah8/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/slavah8/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/slavah8/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/slavah8/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
