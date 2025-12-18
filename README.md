@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/slavah8/leetcode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0568-maximum-vacation-days](https://github.com/slavah8/leetcode/tree/master/0568-maximum-vacation-days) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0582-kill-process](https://github.com/slavah8/leetcode/tree/master/0582-kill-process) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
@@ -2153,6 +2154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0533-lonely-pixel-ii](https://github.com/slavah8/leetcode/tree/master/0533-lonely-pixel-ii) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/slavah8/leetcode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0568-maximum-vacation-days](https://github.com/slavah8/leetcode/tree/master/0568-maximum-vacation-days) |
 | [0661-image-smoother](https://github.com/slavah8/leetcode/tree/master/0661-image-smoother) |
 | [0750-number-of-corner-rectangles](https://github.com/slavah8/leetcode/tree/master/0750-number-of-corner-rectangles) |
 | [0766-toeplitz-matrix](https://github.com/slavah8/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -2661,6 +2663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/slavah8/leetcode/tree/master/0546-remove-boxes) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/slavah8/leetcode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
+| [0568-maximum-vacation-days](https://github.com/slavah8/leetcode/tree/master/0568-maximum-vacation-days) |
 | [0583-delete-operation-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/slavah8/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0638-shopping-offers](https://github.com/slavah8/leetcode/tree/master/0638-shopping-offers) |
