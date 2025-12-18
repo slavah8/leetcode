@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/slavah8/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/slavah8/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/slavah8/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/slavah8/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/slavah8/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -2207,6 +2208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/slavah8/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/slavah8/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/slavah8/leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
@@ -2580,6 +2582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/slavah8/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3311-ant-on-the-boundary](https://github.com/slavah8/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/slavah8/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/slavah8/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/slavah8/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3905-partition-string](https://github.com/slavah8/leetcode/tree/master/3905-partition-string) |
