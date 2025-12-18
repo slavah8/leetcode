@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1146-snapshot-array](https://github.com/slavah8/leetcode/tree/master/1146-snapshot-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1162-as-far-from-land-as-possible](https://github.com/slavah8/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
 | [1168-duplicate-zeros](https://github.com/slavah8/leetcode/tree/master/1168-duplicate-zeros) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
@@ -1455,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/slavah8/leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1151-stepping-numbers](https://github.com/slavah8/leetcode/tree/master/1151-stepping-numbers) |
+| [1162-as-far-from-land-as-possible](https://github.com/slavah8/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1177-tree-diameter](https://github.com/slavah8/leetcode/tree/master/1177-tree-diameter) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/slavah8/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -2183,6 +2185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/slavah8/leetcode/tree/master/1034-coloring-a-border) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/slavah8/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
+| [1162-as-far-from-land-as-possible](https://github.com/slavah8/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/slavah8/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/slavah8/leetcode/tree/master/1234-number-of-paths-with-max-score) |
@@ -2723,6 +2726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/slavah8/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/slavah8/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
+| [1162-as-far-from-land-as-possible](https://github.com/slavah8/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
 | [1170-shortest-common-supersequence](https://github.com/slavah8/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1178-valid-palindrome-iii](https://github.com/slavah8/leetcode/tree/master/1178-valid-palindrome-iii) |
