@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/slavah8/leetcode/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/slavah8/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
@@ -2121,6 +2122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/slavah8/leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/slavah8/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0286-walls-and-gates](https://github.com/slavah8/leetcode/tree/master/0286-walls-and-gates) |
@@ -2614,6 +2616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/slavah8/leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/slavah8/leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
@@ -3289,6 +3292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/slavah8/leetcode/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/slavah8/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/slavah8/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -3517,6 +3521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/slavah8/leetcode/tree/master/0085-maximal-rectangle) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/slavah8/leetcode/tree/master/0402-remove-k-digits) |
