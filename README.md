@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/slavah8/leetcode/tree/master/1029-two-city-scheduling) |
 | [1032-satisfiability-of-equality-equations](https://github.com/slavah8/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1034-coloring-a-border](https://github.com/slavah8/leetcode/tree/master/1034-coloring-a-border) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/slavah8/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1039-find-the-town-judge](https://github.com/slavah8/leetcode/tree/master/1039-find-the-town-judge) |
@@ -1343,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/slavah8/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-coloring-a-border](https://github.com/slavah8/leetcode/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1091-maximum-average-subtree](https://github.com/slavah8/leetcode/tree/master/1091-maximum-average-subtree) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
@@ -1445,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/slavah8/leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-coloring-a-border](https://github.com/slavah8/leetcode/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1087-brace-expansion](https://github.com/slavah8/leetcode/tree/master/1087-brace-expansion) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
@@ -2173,6 +2176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/slavah8/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1034-coloring-a-border](https://github.com/slavah8/leetcode/tree/master/1034-coloring-a-border) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/slavah8/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
