@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/slavah8/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/slavah8/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-minimum-positive-sum-subarray](https://github.com/slavah8/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -2210,6 +2211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/slavah8/leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/slavah8/leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/slavah8/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/slavah8/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
 |  |
@@ -2539,6 +2541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/slavah8/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/slavah8/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Simulation
 |  |
