@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1014-best-sightseeing-pair](https://github.com/slavah8/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/slavah8/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -2694,6 +2695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1012-numbers-with-repeated-digits](https://github.com/slavah8/leetcode/tree/master/1012-numbers-with-repeated-digits) |
+| [1014-best-sightseeing-pair](https://github.com/slavah8/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1020-longest-turbulent-subarray](https://github.com/slavah8/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/slavah8/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1038-number-of-squareful-arrays](https://github.com/slavah8/leetcode/tree/master/1038-number-of-squareful-arrays) |
