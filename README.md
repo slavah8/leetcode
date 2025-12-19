@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/slavah8/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/slavah8/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0723-candy-crush](https://github.com/slavah8/leetcode/tree/master/0723-candy-crush) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0737-sentence-similarity-ii](https://github.com/slavah8/leetcode/tree/master/0737-sentence-similarity-ii) |
@@ -2171,6 +2172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0568-maximum-vacation-days](https://github.com/slavah8/leetcode/tree/master/0568-maximum-vacation-days) |
 | [0661-image-smoother](https://github.com/slavah8/leetcode/tree/master/0661-image-smoother) |
+| [0723-candy-crush](https://github.com/slavah8/leetcode/tree/master/0723-candy-crush) |
 | [0750-number-of-corner-rectangles](https://github.com/slavah8/leetcode/tree/master/0750-number-of-corner-rectangles) |
 | [0766-toeplitz-matrix](https://github.com/slavah8/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
@@ -2526,6 +2528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/slavah8/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/slavah8/leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0723-candy-crush](https://github.com/slavah8/leetcode/tree/master/0723-candy-crush) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/slavah8/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/slavah8/leetcode/tree/master/0825-friends-of-appropriate-ages) |
@@ -2596,6 +2599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/slavah8/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0498-diagonal-traverse](https://github.com/slavah8/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0723-candy-crush](https://github.com/slavah8/leetcode/tree/master/0723-candy-crush) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
