@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/slavah8/leetcode/tree/master/2505-number-of-good-paths) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/slavah8/leetcode/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/slavah8/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -2224,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/slavah8/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/slavah8/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/slavah8/leetcode/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/slavah8/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -2805,6 +2807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2504-find-all-good-indices](https://github.com/slavah8/leetcode/tree/master/2504-find-all-good-indices) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/slavah8/leetcode/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
