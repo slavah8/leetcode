@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1562-find-latest-group-of-size-m](https://github.com/slavah8/leetcode/tree/master/1562-find-latest-group-of-size-m) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/slavah8/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/slavah8/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1376,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/slavah8/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1650-find-root-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1660-correct-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1660-correct-a-binary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/slavah8/leetcode/tree/master/1665-diameter-of-n-ary-tree) |
@@ -1480,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1558-course-schedule-iv](https://github.com/slavah8/leetcode/tree/master/1558-course-schedule-iv) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/slavah8/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1660-correct-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1660-correct-a-binary-tree) |
 | [1730-shortest-path-to-get-food](https://github.com/slavah8/leetcode/tree/master/1730-shortest-path-to-get-food) |
@@ -2211,6 +2214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/slavah8/leetcode/tree/master/1476-subrectangle-queries) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/slavah8/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1672-richest-customer-wealth](https://github.com/slavah8/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1730-shortest-path-to-get-food](https://github.com/slavah8/leetcode/tree/master/1730-shortest-path-to-get-food) |
@@ -3643,4 +3647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/slavah8/leetcode/tree/master/0274-h-index) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/slavah8/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
