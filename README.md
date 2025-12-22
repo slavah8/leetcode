@@ -881,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/slavah8/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/slavah8/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1528-shuffle-string](https://github.com/slavah8/leetcode/tree/master/1528-shuffle-string) |
 | [1542-consecutive-characters](https://github.com/slavah8/leetcode/tree/master/1542-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/slavah8/leetcode/tree/master/1544-make-the-string-great) |
@@ -1721,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/slavah8/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/slavah8/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/slavah8/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1562-find-latest-group-of-size-m](https://github.com/slavah8/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -2788,6 +2790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/slavah8/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -3112,6 +3115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/slavah8/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/slavah8/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
