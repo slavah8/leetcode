@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/slavah8/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1909-buildings-with-an-ocean-view](https://github.com/slavah8/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/slavah8/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1918-kth-smallest-subarray-sum](https://github.com/slavah8/leetcode/tree/master/1918-kth-smallest-subarray-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/slavah8/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -2823,6 +2824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/slavah8/leetcode/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/slavah8/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/slavah8/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
