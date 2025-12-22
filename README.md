@@ -2727,6 +2727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/slavah8/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/slavah8/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0911-profitable-schemes](https://github.com/slavah8/leetcode/tree/master/0911-profitable-schemes) |
+| [0935-knight-dialer](https://github.com/slavah8/leetcode/tree/master/0935-knight-dialer) |
 | [0943-sum-of-subarray-minimums](https://github.com/slavah8/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/slavah8/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/slavah8/leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
