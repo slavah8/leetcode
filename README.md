@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/slavah8/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/slavah8/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/slavah8/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/slavah8/leetcode/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/slavah8/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/slavah8/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/slavah8/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/slavah8/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/slavah8/leetcode/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/slavah8/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/slavah8/leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/slavah8/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -2049,6 +2051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/slavah8/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/slavah8/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/slavah8/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/slavah8/leetcode/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/slavah8/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2142-average-height-of-buildings-in-each-segment](https://github.com/slavah8/leetcode/tree/master/2142-average-height-of-buildings-in-each-segment) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
