@@ -2756,6 +2756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/slavah8/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/slavah8/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1134-shortest-distance-to-target-color](https://github.com/slavah8/leetcode/tree/master/1134-shortest-distance-to-target-color) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/slavah8/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1166-toss-strange-coins](https://github.com/slavah8/leetcode/tree/master/1166-toss-strange-coins) |
 | [1170-shortest-common-supersequence](https://github.com/slavah8/leetcode/tree/master/1170-shortest-common-supersequence) |
