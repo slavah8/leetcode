@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0248-strobogrammatic-number-iii](https://github.com/slavah8/leetcode/tree/master/0248-strobogrammatic-number-iii) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0256-paint-house](https://github.com/slavah8/leetcode/tree/master/0256-paint-house) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0269-alien-dictionary](https://github.com/slavah8/leetcode/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/slavah8/leetcode/tree/master/0274-h-index) |
@@ -2695,6 +2696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/slavah8/leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/slavah8/leetcode/tree/master/0233-number-of-digit-one) |
+| [0256-paint-house](https://github.com/slavah8/leetcode/tree/master/0256-paint-house) |
 | [0276-paint-fence](https://github.com/slavah8/leetcode/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
