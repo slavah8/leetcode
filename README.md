@@ -2709,6 +2709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/slavah8/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/slavah8/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/slavah8/leetcode/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/slavah8/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/slavah8/leetcode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0568-maximum-vacation-days](https://github.com/slavah8/leetcode/tree/master/0568-maximum-vacation-days) |
 | [0583-delete-operation-for-two-strings](https://github.com/slavah8/leetcode/tree/master/0583-delete-operation-for-two-strings) |
