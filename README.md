@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/slavah8/leetcode/tree/master/0978-valid-mountain-array) |
 | [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
+| [0983-minimum-cost-for-tickets](https://github.com/slavah8/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
@@ -2734,6 +2735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/slavah8/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/slavah8/leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
+| [0983-minimum-cost-for-tickets](https://github.com/slavah8/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-binary-tree-cameras](https://github.com/slavah8/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1012-numbers-with-repeated-digits](https://github.com/slavah8/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1014-best-sightseeing-pair](https://github.com/slavah8/leetcode/tree/master/1014-best-sightseeing-pair) |
