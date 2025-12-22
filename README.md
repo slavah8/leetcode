@@ -2695,6 +2695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/slavah8/leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/slavah8/leetcode/tree/master/0233-number-of-digit-one) |
+| [0276-paint-fence](https://github.com/slavah8/leetcode/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/slavah8/leetcode/tree/master/0279-perfect-squares) |
 | [0294-flip-game-ii](https://github.com/slavah8/leetcode/tree/master/0294-flip-game-ii) |
 | [0312-burst-balloons](https://github.com/slavah8/leetcode/tree/master/0312-burst-balloons) |
