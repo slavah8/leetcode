@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-process-tasks-using-servers](https://github.com/slavah8/leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2028-find-missing-observations](https://github.com/slavah8/leetcode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/slavah8/leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
@@ -2439,6 +2440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2028-find-missing-observations](https://github.com/slavah8/leetcode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
@@ -2630,6 +2632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/slavah8/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/slavah8/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2028-find-missing-observations](https://github.com/slavah8/leetcode/tree/master/2028-find-missing-observations) |
 | [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/slavah8/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/slavah8/leetcode/tree/master/2232-adding-spaces-to-a-string) |
