@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/slavah8/leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/slavah8/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/slavah8/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/slavah8/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/slavah8/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -2455,6 +2456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/slavah8/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/slavah8/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/slavah8/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -2841,6 +2843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2056-jump-game-viii](https://github.com/slavah8/leetcode/tree/master/2056-jump-game-viii) |
 | [2078-maximum-compatibility-score-sum](https://github.com/slavah8/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/slavah8/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/slavah8/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2118-maximum-earnings-from-taxi](https://github.com/slavah8/leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
