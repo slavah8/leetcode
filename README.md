@@ -2787,6 +2787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-palindrome-removal](https://github.com/slavah8/leetcode/tree/master/1202-palindrome-removal) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/slavah8/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-smallest-sufficient-team](https://github.com/slavah8/leetcode/tree/master/1220-smallest-sufficient-team) |
+| [1220-count-vowels-permutation](https://github.com/slavah8/leetcode/tree/master/1220-count-vowels-permutation) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/slavah8/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/slavah8/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1234-number-of-paths-with-max-score](https://github.com/slavah8/leetcode/tree/master/1234-number-of-paths-with-max-score) |
