@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/slavah8/leetcode/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/slavah8/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/slavah8/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1476-subrectangle-queries](https://github.com/slavah8/leetcode/tree/master/1476-subrectangle-queries) |
 | [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -2800,6 +2801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/slavah8/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/slavah8/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/slavah8/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/slavah8/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
