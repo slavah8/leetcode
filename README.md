@@ -2917,6 +2917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/slavah8/leetcode/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/slavah8/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2533-number-of-good-binary-strings](https://github.com/slavah8/leetcode/tree/master/2533-number-of-good-binary-strings) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2562-count-ways-to-build-good-strings](https://github.com/slavah8/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
