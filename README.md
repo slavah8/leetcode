@@ -896,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/slavah8/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/slavah8/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1528-shuffle-string](https://github.com/slavah8/leetcode/tree/master/1528-shuffle-string) |
+| [1531-string-compression-ii](https://github.com/slavah8/leetcode/tree/master/1531-string-compression-ii) |
 | [1542-consecutive-characters](https://github.com/slavah8/leetcode/tree/master/1542-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/slavah8/leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/slavah8/leetcode/tree/master/1598-crawler-log-folder) |
@@ -2823,6 +2824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/slavah8/leetcode/tree/master/1522-stone-game-iii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/slavah8/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1531-string-compression-ii](https://github.com/slavah8/leetcode/tree/master/1531-string-compression-ii) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
