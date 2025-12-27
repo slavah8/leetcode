@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/slavah8/leetcode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2458-find-minimum-time-to-finish-all-jobs-ii](https://github.com/slavah8/leetcode/tree/master/2458-find-minimum-time-to-finish-all-jobs-ii) |
+| [2464-minimum-subarrays-in-a-valid-split](https://github.com/slavah8/leetcode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2465-shifting-letters-ii](https://github.com/slavah8/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2479-meeting-rooms-iii](https://github.com/slavah8/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -2496,6 +2497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/slavah8/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2376-count-special-integers](https://github.com/slavah8/leetcode/tree/master/2376-count-special-integers) |
+| [2464-minimum-subarrays-in-a-valid-split](https://github.com/slavah8/leetcode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2481-strictly-palindromic-number](https://github.com/slavah8/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -2523,6 +2525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
+| [2464-minimum-subarrays-in-a-valid-split](https://github.com/slavah8/leetcode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
@@ -2904,6 +2907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/slavah8/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/slavah8/leetcode/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 | [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [2464-minimum-subarrays-in-a-valid-split](https://github.com/slavah8/leetcode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2504-find-all-good-indices](https://github.com/slavah8/leetcode/tree/master/2504-find-all-good-indices) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/slavah8/leetcode/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
