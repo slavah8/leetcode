@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/slavah8/leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2612-minimum-cost-to-buy-apples](https://github.com/slavah8/leetcode/tree/master/2612-minimum-cost-to-buy-apples) |
 | [2625-increment-submatrices-by-one](https://github.com/slavah8/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/slavah8/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/slavah8/leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/slavah8/leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/slavah8/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2719-count-of-integers](https://github.com/slavah8/leetcode/tree/master/2719-count-of-integers) |
 | [2755-extra-characters-in-a-string](https://github.com/slavah8/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -1815,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/slavah8/leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/slavah8/leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/slavah8/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
@@ -2923,6 +2926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/slavah8/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/slavah8/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/slavah8/leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
