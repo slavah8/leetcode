@@ -2826,6 +2826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/slavah8/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/slavah8/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1531-string-compression-ii](https://github.com/slavah8/leetcode/tree/master/1531-string-compression-ii) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/slavah8/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -3497,6 +3498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/slavah8/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/slavah8/leetcode/tree/master/0773-sliding-puzzle) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/slavah8/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Combinatorics
 |  |
