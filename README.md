@@ -2113,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/slavah8/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/slavah8/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/slavah8/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2591-frog-jump-ii](https://github.com/slavah8/leetcode/tree/master/2591-frog-jump-ii) |
@@ -2919,6 +2920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2562-count-ways-to-build-good-strings](https://github.com/slavah8/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/slavah8/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
@@ -3218,6 +3220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/slavah8/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/slavah8/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/slavah8/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
