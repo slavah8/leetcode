@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/slavah8/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/slavah8/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1575-count-all-possible-routes](https://github.com/slavah8/leetcode/tree/master/1575-count-all-possible-routes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1598-crawler-log-folder](https://github.com/slavah8/leetcode/tree/master/1598-crawler-log-folder) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/slavah8/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -2829,6 +2830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/slavah8/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1559-cherry-pickup-ii](https://github.com/slavah8/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/slavah8/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1575-count-all-possible-routes](https://github.com/slavah8/leetcode/tree/master/1575-count-all-possible-routes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/slavah8/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1587-parallel-courses-ii](https://github.com/slavah8/leetcode/tree/master/1587-parallel-courses-ii) |
 | [1617-stone-game-iv](https://github.com/slavah8/leetcode/tree/master/1617-stone-game-iv) |
@@ -3499,6 +3501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/slavah8/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/slavah8/leetcode/tree/master/0773-sliding-puzzle) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/slavah8/leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1575-count-all-possible-routes](https://github.com/slavah8/leetcode/tree/master/1575-count-all-possible-routes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Combinatorics
 |  |
