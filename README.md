@@ -970,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/slavah8/leetcode/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/slavah8/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3163-string-compression-iii](https://github.com/slavah8/leetcode/tree/master/3163-string-compression-iii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/slavah8/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/slavah8/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/slavah8/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
