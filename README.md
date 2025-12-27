@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/slavah8/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2495-number-of-subarrays-having-even-product](https://github.com/slavah8/leetcode/tree/master/2495-number-of-subarrays-having-even-product) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/slavah8/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -2499,6 +2500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2376-count-special-integers](https://github.com/slavah8/leetcode/tree/master/2376-count-special-integers) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/slavah8/leetcode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2481-strictly-palindromic-number](https://github.com/slavah8/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2495-number-of-subarrays-having-even-product](https://github.com/slavah8/leetcode/tree/master/2495-number-of-subarrays-having-even-product) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/slavah8/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -2908,6 +2910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/slavah8/leetcode/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 | [2439-minimize-maximum-of-array](https://github.com/slavah8/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/slavah8/leetcode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
+| [2495-number-of-subarrays-having-even-product](https://github.com/slavah8/leetcode/tree/master/2495-number-of-subarrays-having-even-product) |
 | [2501-longest-square-streak-in-an-array](https://github.com/slavah8/leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2504-find-all-good-indices](https://github.com/slavah8/leetcode/tree/master/2504-find-all-good-indices) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/slavah8/leetcode/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
