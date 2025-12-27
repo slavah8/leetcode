@@ -960,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2468-valid-palindrome-iv](https://github.com/slavah8/leetcode/tree/master/2468-valid-palindrome-iv) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/slavah8/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/slavah8/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/slavah8/leetcode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/slavah8/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -2102,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/slavah8/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/slavah8/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/slavah8/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/slavah8/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/slavah8/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/slavah8/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/slavah8/leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -2897,6 +2899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/slavah8/leetcode/tree/master/2504-find-all-good-indices) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/slavah8/leetcode/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/slavah8/leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2535-count-strictly-increasing-subarrays](https://github.com/slavah8/leetcode/tree/master/2535-count-strictly-increasing-subarrays) |
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2562-count-ways-to-build-good-strings](https://github.com/slavah8/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
