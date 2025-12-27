@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/slavah8/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/slavah8/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/slavah8/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/slavah8/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/slavah8/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/slavah8/leetcode/tree/master/2385-count-positions-on-street-with-required-brightness) |
@@ -2885,6 +2886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/slavah8/leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2322-number-of-ways-to-build-sturdy-brick-wall](https://github.com/slavah8/leetcode/tree/master/2322-number-of-ways-to-build-sturdy-brick-wall) |
 | [2348-count-number-of-texts](https://github.com/slavah8/leetcode/tree/master/2348-count-number-of-texts) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/slavah8/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2376-count-special-integers](https://github.com/slavah8/leetcode/tree/master/2376-count-special-integers) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/slavah8/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/slavah8/leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
