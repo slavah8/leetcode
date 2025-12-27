@@ -2915,6 +2915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/slavah8/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/slavah8/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/slavah8/leetcode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/slavah8/leetcode/tree/master/2801-count-stepping-numbers-in-range) |
 | [2826-sorting-three-groups](https://github.com/slavah8/leetcode/tree/master/2826-sorting-three-groups) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
