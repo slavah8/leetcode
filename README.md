@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/slavah8/leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/slavah8/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/slavah8/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1824-minimum-sideway-jumps](https://github.com/slavah8/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -2070,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/slavah8/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/slavah8/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/slavah8/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1824-minimum-sideway-jumps](https://github.com/slavah8/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1879-maximum-score-from-removing-stones](https://github.com/slavah8/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/slavah8/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -2857,6 +2859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-minimum-incompatibility](https://github.com/slavah8/leetcode/tree/master/1799-minimum-incompatibility) |
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [1814-jump-game-vi](https://github.com/slavah8/leetcode/tree/master/1814-jump-game-vi) |
+| [1824-minimum-sideway-jumps](https://github.com/slavah8/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/slavah8/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/slavah8/leetcode/tree/master/1871-palindrome-partitioning-iv) |
