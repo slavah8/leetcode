@@ -2512,6 +2512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2719-count-of-integers](https://github.com/slavah8/leetcode/tree/master/2719-count-of-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/slavah8/leetcode/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
@@ -2533,6 +2534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/slavah8/leetcode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2601-prime-subtraction-operation](https://github.com/slavah8/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/slavah8/leetcode/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -2940,6 +2942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2826-sorting-three-groups](https://github.com/slavah8/leetcode/tree/master/2826-sorting-three-groups) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/slavah8/leetcode/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/slavah8/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/slavah8/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/slavah8/leetcode/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
