@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/slavah8/leetcode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/slavah8/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/slavah8/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/slavah8/leetcode/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3615-convert-doubly-linked-list-to-array-ii](https://github.com/slavah8/leetcode/tree/master/3615-convert-doubly-linked-list-to-array-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/slavah8/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -2536,6 +2537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/slavah8/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/slavah8/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/slavah8/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/slavah8/leetcode/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/slavah8/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/slavah8/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -2553,6 +2555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/slavah8/leetcode/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
+| [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/slavah8/leetcode/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
@@ -2975,6 +2978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/slavah8/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/slavah8/leetcode/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/slavah8/leetcode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
