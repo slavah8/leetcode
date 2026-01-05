@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/slavah8/leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/slavah8/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/slavah8/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/slavah8/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/slavah8/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/slavah8/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -2088,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/slavah8/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/slavah8/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1975-maximum-matrix-sum](https://github.com/slavah8/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/slavah8/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/slavah8/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/slavah8/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -2280,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/slavah8/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/slavah8/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/slavah8/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/slavah8/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/slavah8/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
