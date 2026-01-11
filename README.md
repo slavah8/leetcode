@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-reducing-dishes](https://github.com/slavah8/leetcode/tree/master/1402-reducing-dishes) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/slavah8/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/slavah8/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/slavah8/leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/slavah8/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/slavah8/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1309,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/slavah8/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/slavah8/leetcode/tree/master/1395-count-number-of-teams) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/slavah8/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/slavah8/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/slavah8/leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -2718,6 +2720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/slavah8/leetcode/tree/master/1260-shift-2d-grid) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/slavah8/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1562-find-latest-group-of-size-m](https://github.com/slavah8/leetcode/tree/master/1562-find-latest-group-of-size-m) |
 | [1603-design-parking-system](https://github.com/slavah8/leetcode/tree/master/1603-design-parking-system) |
 | [1803-average-waiting-time](https://github.com/slavah8/leetcode/tree/master/1803-average-waiting-time) |
