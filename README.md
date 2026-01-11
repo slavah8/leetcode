@@ -2463,6 +2463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/slavah8/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/slavah8/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/slavah8/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0660-remove-9](https://github.com/slavah8/leetcode/tree/master/0660-remove-9) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/slavah8/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0750-number-of-corner-rectangles](https://github.com/slavah8/leetcode/tree/master/0750-number-of-corner-rectangles) |
 | [0754-reach-a-number](https://github.com/slavah8/leetcode/tree/master/0754-reach-a-number) |
