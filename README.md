@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/slavah8/leetcode/tree/master/0499-the-maze-iii) |
 | [0500-keyboard-row](https://github.com/slavah8/leetcode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/slavah8/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/slavah8/leetcode/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/slavah8/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/slavah8/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0536-construct-binary-tree-from-string](https://github.com/slavah8/leetcode/tree/master/0536-construct-binary-tree-from-string) |
