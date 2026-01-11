@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/slavah8/leetcode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/slavah8/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0750-number-of-corner-rectangles](https://github.com/slavah8/leetcode/tree/master/0750-number-of-corner-rectangles) |
+| [0759-employee-free-time](https://github.com/slavah8/leetcode/tree/master/0759-employee-free-time) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
 | [0762-find-anagram-mappings](https://github.com/slavah8/leetcode/tree/master/0762-find-anagram-mappings) |
 | [0766-toeplitz-matrix](https://github.com/slavah8/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/slavah8/leetcode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/slavah8/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0759-employee-free-time](https://github.com/slavah8/leetcode/tree/master/0759-employee-free-time) |
 | [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/slavah8/leetcode/tree/master/0825-friends-of-appropriate-ages) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/slavah8/leetcode/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/slavah8/leetcode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/slavah8/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0759-employee-free-time](https://github.com/slavah8/leetcode/tree/master/0759-employee-free-time) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/slavah8/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/slavah8/leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
@@ -3703,6 +3706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Line Sweep
 |  |
 | ------- |
+| [0759-employee-free-time](https://github.com/slavah8/leetcode/tree/master/0759-employee-free-time) |
 | [1028-interval-list-intersections](https://github.com/slavah8/leetcode/tree/master/1028-interval-list-intersections) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/slavah8/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Enumeration
