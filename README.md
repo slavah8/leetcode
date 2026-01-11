@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0245-shortest-word-distance-iii](https://github.com/slavah8/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0247-strobogrammatic-number-ii](https://github.com/slavah8/leetcode/tree/master/0247-strobogrammatic-number-ii) |
 | [0248-strobogrammatic-number-iii](https://github.com/slavah8/leetcode/tree/master/0248-strobogrammatic-number-iii) |
+| [0252-meeting-rooms](https://github.com/slavah8/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0256-paint-house](https://github.com/slavah8/leetcode/tree/master/0256-paint-house) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
+| [0252-meeting-rooms](https://github.com/slavah8/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/slavah8/leetcode/tree/master/0274-h-index) |
