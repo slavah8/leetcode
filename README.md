@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/slavah8/leetcode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/slavah8/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/slavah8/leetcode/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
+| [0565-array-nesting](https://github.com/slavah8/leetcode/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/slavah8/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0568-maximum-vacation-days](https://github.com/slavah8/leetcode/tree/master/0568-maximum-vacation-days) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1432,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/slavah8/leetcode/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0563-binary-tree-tilt](https://github.com/slavah8/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/slavah8/leetcode/tree/master/0565-array-nesting) |
 | [0582-kill-process](https://github.com/slavah8/leetcode/tree/master/0582-kill-process) |
 | [0606-construct-string-from-binary-tree](https://github.com/slavah8/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/slavah8/leetcode/tree/master/0623-add-one-row-to-tree) |
