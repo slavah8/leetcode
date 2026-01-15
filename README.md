@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3030-find-the-grid-of-region-average](https://github.com/slavah8/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/slavah8/leetcode/tree/master/3033-modify-the-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/slavah8/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/slavah8/leetcode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3095-maximum-number-of-alloys](https://github.com/slavah8/leetcode/tree/master/3095-maximum-number-of-alloys) |
@@ -2804,6 +2805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/slavah8/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/slavah8/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/slavah8/leetcode/tree/master/2886-faulty-keyboard) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/slavah8/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3226-minimum-number-game](https://github.com/slavah8/leetcode/tree/master/3226-minimum-number-game) |
 | [3242-design-neighbor-sum-service](https://github.com/slavah8/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3311-ant-on-the-boundary](https://github.com/slavah8/leetcode/tree/master/3311-ant-on-the-boundary) |
