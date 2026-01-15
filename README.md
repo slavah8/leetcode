@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0568-maximum-vacation-days](https://github.com/slavah8/leetcode/tree/master/0568-maximum-vacation-days) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/slavah8/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0582-kill-process](https://github.com/slavah8/leetcode/tree/master/0582-kill-process) |
+| [0598-range-addition-ii](https://github.com/slavah8/leetcode/tree/master/0598-range-addition-ii) |
 | [0604-design-compressed-string-iterator](https://github.com/slavah8/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0611-valid-triangle-number](https://github.com/slavah8/leetcode/tree/master/0611-valid-triangle-number) |
 | [0616-add-bold-tag-in-string](https://github.com/slavah8/leetcode/tree/master/0616-add-bold-tag-in-string) |
@@ -2492,6 +2493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/slavah8/leetcode/tree/master/0464-can-i-win) |
 | [0492-construct-the-rectangle](https://github.com/slavah8/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/slavah8/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/slavah8/leetcode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/slavah8/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/slavah8/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0660-remove-9](https://github.com/slavah8/leetcode/tree/master/0660-remove-9) |
