@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/slavah8/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/slavah8/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/slavah8/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/slavah8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/slavah8/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -2545,6 +2546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/slavah8/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/slavah8/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1362-airplane-seat-assignment-probability](https://github.com/slavah8/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/slavah8/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
