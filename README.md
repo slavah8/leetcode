@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/slavah8/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/slavah8/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/slavah8/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/slavah8/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/slavah8/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/slavah8/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1838-number-of-distinct-substrings-in-a-string](https://github.com/slavah8/leetcode/tree/master/1838-number-of-distinct-substrings-in-a-string) |
