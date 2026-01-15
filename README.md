@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/slavah8/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2028-find-missing-observations](https://github.com/slavah8/leetcode/tree/master/2028-find-missing-observations) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/slavah8/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/slavah8/leetcode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1649-create-sorted-array-through-instructions](https://github.com/slavah8/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/slavah8/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/slavah8/leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/slavah8/leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/slavah8/leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/slavah8/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2045-cutting-ribbons](https://github.com/slavah8/leetcode/tree/master/2045-cutting-ribbons) |
 | [2047-find-a-peak-element-ii](https://github.com/slavah8/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -1323,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/slavah8/leetcode/tree/master/1395-count-number-of-teams) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/slavah8/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1649-create-sorted-array-through-instructions](https://github.com/slavah8/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/slavah8/leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2179-count-good-triplets-in-an-array](https://github.com/slavah8/leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/slavah8/leetcode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -1343,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
 | [1395-count-number-of-teams](https://github.com/slavah8/leetcode/tree/master/1395-count-number-of-teams) |
 | [1649-create-sorted-array-through-instructions](https://github.com/slavah8/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2080-range-frequency-queries](https://github.com/slavah8/leetcode/tree/master/2080-range-frequency-queries) |
 | [2179-count-good-triplets-in-an-array](https://github.com/slavah8/leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/slavah8/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1357,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/slavah8/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
 | [1649-create-sorted-array-through-instructions](https://github.com/slavah8/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2179-count-good-triplets-in-an-array](https://github.com/slavah8/leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/slavah8/leetcode/tree/master/2519-count-the-number-of-k-big-indices) |
 ## Ordered Set
@@ -1371,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/slavah8/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1649-create-sorted-array-through-instructions](https://github.com/slavah8/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1946-minimum-absolute-sum-difference](https://github.com/slavah8/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2075-brightest-position-on-street](https://github.com/slavah8/leetcode/tree/master/2075-brightest-position-on-street) |
 | [2179-count-good-triplets-in-an-array](https://github.com/slavah8/leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/slavah8/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1838,6 +1845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-distinct-numbers-in-each-subarray](https://github.com/slavah8/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/slavah8/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/slavah8/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/slavah8/leetcode/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2043-simple-bank-system](https://github.com/slavah8/leetcode/tree/master/2043-simple-bank-system) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
