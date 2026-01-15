@@ -1416,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0333-largest-bst-subtree](https://github.com/slavah8/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/slavah8/leetcode/tree/master/0337-house-robber-iii) |
+| [0339-nested-list-weight-sum](https://github.com/slavah8/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/slavah8/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0366-find-leaves-of-binary-tree](https://github.com/slavah8/leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
@@ -1542,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/slavah8/leetcode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/slavah8/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/slavah8/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/slavah8/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/slavah8/leetcode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/slavah8/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0490-the-maze](https://github.com/slavah8/leetcode/tree/master/0490-the-maze) |
