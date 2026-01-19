@@ -2635,6 +2635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/slavah8/leetcode/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/slavah8/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/slavah8/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/slavah8/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/slavah8/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Number Theory
@@ -3084,6 +3085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/slavah8/leetcode/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/slavah8/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/slavah8/leetcode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3806-maximum-coin-collection](https://github.com/slavah8/leetcode/tree/master/3806-maximum-coin-collection) |
 | [4041-climbing-stairs-ii](https://github.com/slavah8/leetcode/tree/master/4041-climbing-stairs-ii) |
@@ -3833,6 +3835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/slavah8/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/slavah8/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
