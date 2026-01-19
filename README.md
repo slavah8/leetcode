@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/slavah8/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3030-find-the-grid-of-region-average](https://github.com/slavah8/leetcode/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/slavah8/leetcode/tree/master/3033-modify-the-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/slavah8/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/slavah8/leetcode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
@@ -2619,6 +2621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/slavah8/leetcode/tree/master/2719-count-of-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/slavah8/leetcode/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
@@ -3817,6 +3820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
 | [3127-make-a-square-with-the-same-color](https://github.com/slavah8/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
@@ -3877,6 +3881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/slavah8/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
