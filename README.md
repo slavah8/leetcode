@@ -1326,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/slavah8/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/slavah8/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/slavah8/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -2762,6 +2763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/slavah8/leetcode/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/slavah8/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/slavah8/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/slavah8/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [4029-sort-array-by-absolute-value](https://github.com/slavah8/leetcode/tree/master/4029-sort-array-by-absolute-value) |
 ## Simulation
 |  |
@@ -3810,6 +3812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3127-make-a-square-with-the-same-color](https://github.com/slavah8/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/slavah8/leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3483-unique-3-digit-even-numbers](https://github.com/slavah8/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/slavah8/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3745-maximize-expression-of-three-elements](https://github.com/slavah8/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Monotonic Stack
