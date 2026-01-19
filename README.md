@@ -2595,6 +2595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-the-number-of-good-subsets](https://github.com/slavah8/leetcode/tree/master/2105-the-number-of-good-subsets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/slavah8/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/slavah8/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/slavah8/leetcode/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/slavah8/leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/slavah8/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -3805,6 +3806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/slavah8/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/slavah8/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/slavah8/leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/slavah8/leetcode/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/slavah8/leetcode/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/slavah8/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/slavah8/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
