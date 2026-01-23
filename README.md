@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/slavah8/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/slavah8/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0892-surface-area-of-3d-shapes](https://github.com/slavah8/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0896-monotonic-array](https://github.com/slavah8/leetcode/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/slavah8/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0911-profitable-schemes](https://github.com/slavah8/leetcode/tree/master/0911-profitable-schemes) |
