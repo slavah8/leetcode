@@ -2532,6 +2532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/slavah8/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0369-plus-one-linked-list](https://github.com/slavah8/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/slavah8/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/slavah8/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/slavah8/leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/slavah8/leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/slavah8/leetcode/tree/master/0400-nth-digit) |
@@ -2668,6 +2669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/slavah8/leetcode/tree/master/0086-partition-list) |
 | [0369-plus-one-linked-list](https://github.com/slavah8/leetcode/tree/master/0369-plus-one-linked-list) |
 | [0379-design-phone-directory](https://github.com/slavah8/leetcode/tree/master/0379-design-phone-directory) |
+| [0382-linked-list-random-node](https://github.com/slavah8/leetcode/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/slavah8/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
@@ -3415,6 +3417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/slavah8/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/slavah8/leetcode/tree/master/0384-shuffle-an-array) |
 | [0912-random-pick-with-weight](https://github.com/slavah8/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Trie
@@ -3920,4 +3923,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/slavah8/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/slavah8/leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
