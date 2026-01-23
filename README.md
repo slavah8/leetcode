@@ -1373,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/slavah8/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/slavah8/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/slavah8/leetcode/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/slavah8/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
@@ -1402,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/slavah8/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/slavah8/leetcode/tree/master/0327-count-of-range-sum) |
 | [0699-falling-squares](https://github.com/slavah8/leetcode/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/slavah8/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
@@ -2497,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/slavah8/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/slavah8/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/slavah8/leetcode/tree/master/0707-design-linked-list) |
+| [0715-range-module](https://github.com/slavah8/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/slavah8/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/slavah8/leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/slavah8/leetcode/tree/master/0732-my-calendar-iii) |
