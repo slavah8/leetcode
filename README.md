@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1200-minimum-absolute-difference](https://github.com/slavah8/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-palindrome-removal](https://github.com/slavah8/leetcode/tree/master/1202-palindrome-removal) |
 | [1206-corporate-flight-bookings](https://github.com/slavah8/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/slavah8/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-brace-expansion](https://github.com/slavah8/leetcode/tree/master/1087-brace-expansion) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/slavah8/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/slavah8/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1244-design-a-leaderboard](https://github.com/slavah8/leetcode/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
