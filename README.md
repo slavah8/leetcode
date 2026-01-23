@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/slavah8/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/slavah8/leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0179-largest-number](https://github.com/slavah8/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/slavah8/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0219-contains-duplicate-ii](https://github.com/slavah8/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/slavah8/leetcode/tree/master/0221-maximal-square) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/slavah8/leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/slavah8/leetcode/tree/master/0179-largest-number) |
 | [0252-meeting-rooms](https://github.com/slavah8/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/slavah8/leetcode/tree/master/0259-3sum-smaller) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0161-one-edit-distance](https://github.com/slavah8/leetcode/tree/master/0161-one-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/slavah8/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/slavah8/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/slavah8/leetcode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/slavah8/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/slavah8/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0243-shortest-word-distance](https://github.com/slavah8/leetcode/tree/master/0243-shortest-word-distance) |
@@ -2144,6 +2147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/slavah8/leetcode/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/slavah8/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/slavah8/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/slavah8/leetcode/tree/master/0358-rearrange-string-k-distance-apart) |
