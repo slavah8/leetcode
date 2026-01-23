@@ -1028,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/slavah8/leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/slavah8/leetcode/tree/master/2890-count-substrings-without-repeating-character) |
+| [2950-number-of-divisible-substrings](https://github.com/slavah8/leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/slavah8/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/slavah8/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/slavah8/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1926,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/slavah8/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2890-count-substrings-without-repeating-character](https://github.com/slavah8/leetcode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2950-number-of-divisible-substrings](https://github.com/slavah8/leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/slavah8/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
@@ -2450,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/slavah8/leetcode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/slavah8/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/slavah8/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2950-number-of-divisible-substrings](https://github.com/slavah8/leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/slavah8/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2995-number-of-unique-categories](https://github.com/slavah8/leetcode/tree/master/2995-number-of-unique-categories) |
 | [3044-most-frequent-prime](https://github.com/slavah8/leetcode/tree/master/3044-most-frequent-prime) |
@@ -3261,6 +3264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/slavah8/leetcode/tree/master/2721-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/slavah8/leetcode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2950-number-of-divisible-substrings](https://github.com/slavah8/leetcode/tree/master/2950-number-of-divisible-substrings) |
 | [3034-points-that-intersect-with-cars](https://github.com/slavah8/leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3104-find-longest-self-contained-substring](https://github.com/slavah8/leetcode/tree/master/3104-find-longest-self-contained-substring) |
