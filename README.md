@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/slavah8/leetcode/tree/master/1185-find-in-mountain-array) |
 | [1190-smallest-common-region](https://github.com/slavah8/leetcode/tree/master/1190-smallest-common-region) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/slavah8/leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1200-minimum-absolute-difference](https://github.com/slavah8/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1202-palindrome-removal](https://github.com/slavah8/leetcode/tree/master/1202-palindrome-removal) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-brace-expansion](https://github.com/slavah8/leetcode/tree/master/1087-brace-expansion) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/slavah8/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/slavah8/leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/slavah8/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1244-design-a-leaderboard](https://github.com/slavah8/leetcode/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
@@ -2188,6 +2190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-shortest-way-to-form-string](https://github.com/slavah8/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/slavah8/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/slavah8/leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/slavah8/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/slavah8/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
