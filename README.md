@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-number-of-paths-with-max-score](https://github.com/slavah8/leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1239-largest-1-bordered-square](https://github.com/slavah8/leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1242-matrix-block-sum](https://github.com/slavah8/leetcode/tree/master/1242-matrix-block-sum) |
+| [1243-array-transformation](https://github.com/slavah8/leetcode/tree/master/1243-array-transformation) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1260-shift-2d-grid](https://github.com/slavah8/leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -2832,6 +2833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/slavah8/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1243-array-transformation](https://github.com/slavah8/leetcode/tree/master/1243-array-transformation) |
 | [1260-shift-2d-grid](https://github.com/slavah8/leetcode/tree/master/1260-shift-2d-grid) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/slavah8/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1562-find-latest-group-of-size-m](https://github.com/slavah8/leetcode/tree/master/1562-find-latest-group-of-size-m) |
