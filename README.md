@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2664-the-knights-tour](https://github.com/slavah8/leetcode/tree/master/2664-the-knights-tour) |
 | [2665-minimum-time-to-repair-cars](https://github.com/slavah8/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2673-maximize-win-from-two-segments](https://github.com/slavah8/leetcode/tree/master/2673-maximize-win-from-two-segments) |
@@ -2413,6 +2414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/slavah8/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2625-increment-submatrices-by-one](https://github.com/slavah8/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [2664-the-knights-tour](https://github.com/slavah8/leetcode/tree/master/2664-the-knights-tour) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/slavah8/leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/slavah8/leetcode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
@@ -3767,6 +3769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/slavah8/leetcode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/slavah8/leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2664-the-knights-tour](https://github.com/slavah8/leetcode/tree/master/2664-the-knights-tour) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3294-number-of-self-divisible-permutations](https://github.com/slavah8/leetcode/tree/master/3294-number-of-self-divisible-permutations) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/slavah8/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
