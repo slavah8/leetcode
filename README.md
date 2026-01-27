@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3188-find-champion-i](https://github.com/slavah8/leetcode/tree/master/3188-find-champion-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3206-alternating-groups-i](https://github.com/slavah8/leetcode/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/slavah8/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/slavah8/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/slavah8/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -3192,6 +3193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/slavah8/leetcode/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/slavah8/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/slavah8/leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3206-alternating-groups-i](https://github.com/slavah8/leetcode/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/slavah8/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/slavah8/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/slavah8/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
