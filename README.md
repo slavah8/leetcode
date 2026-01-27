@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1726-tuple-with-same-product](https://github.com/slavah8/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1730-shortest-path-to-get-food](https://github.com/slavah8/leetcode/tree/master/1730-shortest-path-to-get-food) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/slavah8/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-sum-of-unique-elements](https://github.com/slavah8/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -1877,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/slavah8/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/slavah8/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1726-tuple-with-same-product](https://github.com/slavah8/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/slavah8/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/slavah8/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/slavah8/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -2467,6 +2469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/slavah8/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/slavah8/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1603-design-parking-system](https://github.com/slavah8/leetcode/tree/master/1603-design-parking-system) |
+| [1726-tuple-with-same-product](https://github.com/slavah8/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/slavah8/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/slavah8/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1891-count-pairs-of-nodes](https://github.com/slavah8/leetcode/tree/master/1891-count-pairs-of-nodes) |
