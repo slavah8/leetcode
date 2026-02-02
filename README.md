@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/slavah8/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1824-minimum-sideway-jumps](https://github.com/slavah8/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/slavah8/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/slavah8/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/slavah8/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/slavah8/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -2635,6 +2636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/slavah8/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/slavah8/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/slavah8/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1879-maximum-score-from-removing-stones](https://github.com/slavah8/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/slavah8/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/slavah8/leetcode/tree/master/1906-maximize-score-after-n-operations) |
@@ -3941,6 +3943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/slavah8/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0883-projection-area-of-3d-shapes](https://github.com/slavah8/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/slavah8/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/slavah8/leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/slavah8/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2287-minimum-number-of-lines-to-cover-points](https://github.com/slavah8/leetcode/tree/master/2287-minimum-number-of-lines-to-cover-points) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
