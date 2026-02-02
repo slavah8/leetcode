@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/slavah8/leetcode/tree/master/1074-high-five) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/slavah8/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1083-two-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/1083-two-sum-less-than-k) |
+| [1090-largest-values-from-labels](https://github.com/slavah8/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/slavah8/leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1099-path-with-maximum-minimum-value](https://github.com/slavah8/leetcode/tree/master/1099-path-with-maximum-minimum-value) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/slavah8/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/slavah8/leetcode/tree/master/1074-high-five) |
 | [1083-two-sum-less-than-k](https://github.com/slavah8/leetcode/tree/master/1083-two-sum-less-than-k) |
 | [1087-brace-expansion](https://github.com/slavah8/leetcode/tree/master/1087-brace-expansion) |
+| [1090-largest-values-from-labels](https://github.com/slavah8/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/slavah8/leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/slavah8/leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
@@ -1844,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/slavah8/leetcode/tree/master/1074-high-five) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/slavah8/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/slavah8/leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1090-largest-values-from-labels](https://github.com/slavah8/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1146-snapshot-array](https://github.com/slavah8/leetcode/tree/master/1146-snapshot-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/slavah8/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -2191,6 +2194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/slavah8/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/slavah8/leetcode/tree/master/1029-two-city-scheduling) |
 | [1051-shortest-way-to-form-string](https://github.com/slavah8/leetcode/tree/master/1051-shortest-way-to-form-string) |
+| [1090-largest-values-from-labels](https://github.com/slavah8/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/slavah8/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/slavah8/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/slavah8/leetcode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
@@ -2460,6 +2464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/slavah8/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0959-3sum-with-multiplicity](https://github.com/slavah8/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1034-subarrays-with-k-different-integers](https://github.com/slavah8/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1090-largest-values-from-labels](https://github.com/slavah8/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/slavah8/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/slavah8/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/slavah8/leetcode/tree/master/1198-find-smallest-common-element-in-all-rows) |
