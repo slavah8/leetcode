@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/slavah8/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/slavah8/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/slavah8/leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2965-find-missing-and-repeated-values](https://github.com/slavah8/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/slavah8/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/slavah8/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/slavah8/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/slavah8/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/slavah8/leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/slavah8/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3101-maximum-coins-heroes-can-collect](https://github.com/slavah8/leetcode/tree/master/3101-maximum-coins-heroes-can-collect) |
 | [3143-maximum-points-inside-the-square](https://github.com/slavah8/leetcode/tree/master/3143-maximum-points-inside-the-square) |
@@ -2261,6 +2263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/slavah8/leetcode/tree/master/2690-house-robber-iv) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/slavah8/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/slavah8/leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/slavah8/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/slavah8/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3513-maximum-array-hopping-score-i](https://github.com/slavah8/leetcode/tree/master/3513-maximum-array-hopping-score-i) |
