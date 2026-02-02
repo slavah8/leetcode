@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/slavah8/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/slavah8/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/slavah8/leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/slavah8/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1799-minimum-incompatibility](https://github.com/slavah8/leetcode/tree/master/1799-minimum-incompatibility) |
 | [1803-average-waiting-time](https://github.com/slavah8/leetcode/tree/master/1803-average-waiting-time) |
 | [1808-stone-game-vii](https://github.com/slavah8/leetcode/tree/master/1808-stone-game-vii) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/slavah8/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/slavah8/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/slavah8/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/slavah8/leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/slavah8/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/slavah8/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -2211,6 +2213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/slavah8/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/slavah8/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/slavah8/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/slavah8/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/slavah8/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1824-minimum-sideway-jumps](https://github.com/slavah8/leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/slavah8/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
