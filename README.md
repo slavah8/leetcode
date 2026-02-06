@@ -1016,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-longest-word-with-all-prefixes](https://github.com/slavah8/leetcode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/slavah8/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-maximum-number-of-removable-characters](https://github.com/slavah8/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2027-minimum-moves-to-convert-string](https://github.com/slavah8/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/slavah8/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/slavah8/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/slavah8/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -2229,6 +2230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/slavah8/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/slavah8/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/slavah8/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2027-minimum-moves-to-convert-string](https://github.com/slavah8/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/slavah8/leetcode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/slavah8/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/slavah8/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
