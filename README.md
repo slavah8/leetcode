@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/slavah8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/slavah8/leetcode/tree/master/1402-reducing-dishes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/slavah8/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/slavah8/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/slavah8/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/slavah8/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/slavah8/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/slavah8/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/slavah8/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/slavah8/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-destination-city](https://github.com/slavah8/leetcode/tree/master/1436-destination-city) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/slavah8/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/slavah8/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -2210,6 +2212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/slavah8/leetcode/tree/master/1402-reducing-dishes) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/slavah8/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/slavah8/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/slavah8/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/slavah8/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
