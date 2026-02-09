@@ -1531,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/slavah8/leetcode/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/slavah8/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/slavah8/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1640,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/slavah8/leetcode/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/slavah8/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/slavah8/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -2059,6 +2061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-delete-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1273-delete-tree-nodes) |
 | [1275-validate-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/slavah8/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/slavah8/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/slavah8/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1469-find-all-the-lonely-nodes](https://github.com/slavah8/leetcode/tree/master/1469-find-all-the-lonely-nodes) |
