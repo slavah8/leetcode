@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/slavah8/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/slavah8/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1471-maximum-students-taking-exam](https://github.com/slavah8/leetcode/tree/master/1471-maximum-students-taking-exam) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/slavah8/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1476-subrectangle-queries](https://github.com/slavah8/leetcode/tree/master/1476-subrectangle-queries) |
 | [1477-product-of-the-last-k-numbers](https://github.com/slavah8/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/slavah8/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/slavah8/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/slavah8/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/slavah8/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/slavah8/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/slavah8/leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/slavah8/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -2811,6 +2813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/slavah8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/slavah8/leetcode/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/slavah8/leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/slavah8/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/slavah8/leetcode/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/slavah8/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
