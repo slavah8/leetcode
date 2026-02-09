@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/slavah8/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/slavah8/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/slavah8/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/slavah8/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -2406,6 +2407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/slavah8/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/slavah8/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/slavah8/leetcode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/slavah8/leetcode/tree/master/1396-count-servers-that-communicate) |
