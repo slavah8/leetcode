@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/slavah8/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0772-construct-quad-tree](https://github.com/slavah8/leetcode/tree/master/0772-construct-quad-tree) |
 | [0773-sliding-puzzle](https://github.com/slavah8/leetcode/tree/master/0773-sliding-puzzle) |
+| [0781-rabbits-in-forest](https://github.com/slavah8/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/slavah8/leetcode/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/slavah8/leetcode/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -1826,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/slavah8/leetcode/tree/master/0740-delete-and-earn) |
 | [0760-bold-words-in-string](https://github.com/slavah8/leetcode/tree/master/0760-bold-words-in-string) |
 | [0762-find-anagram-mappings](https://github.com/slavah8/leetcode/tree/master/0762-find-anagram-mappings) |
+| [0781-rabbits-in-forest](https://github.com/slavah8/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0792-number-of-matching-subsequences](https://github.com/slavah8/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/slavah8/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/slavah8/leetcode/tree/master/0835-linked-list-components) |
@@ -2199,6 +2201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/slavah8/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/slavah8/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0770-couples-holding-hands](https://github.com/slavah8/leetcode/tree/master/0770-couples-holding-hands) |
+| [0781-rabbits-in-forest](https://github.com/slavah8/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/slavah8/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0853-most-profit-assigning-work](https://github.com/slavah8/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0861-score-after-flipping-matrix](https://github.com/slavah8/leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -2604,6 +2607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/slavah8/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0750-number-of-corner-rectangles](https://github.com/slavah8/leetcode/tree/master/0750-number-of-corner-rectangles) |
 | [0754-reach-a-number](https://github.com/slavah8/leetcode/tree/master/0754-reach-a-number) |
+| [0781-rabbits-in-forest](https://github.com/slavah8/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0785-basic-calculator-iii](https://github.com/slavah8/leetcode/tree/master/0785-basic-calculator-iii) |
 | [0788-rotated-digits](https://github.com/slavah8/leetcode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/slavah8/leetcode/tree/master/0826-soup-servings) |
