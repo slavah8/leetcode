@@ -2002,6 +2002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/slavah8/leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/slavah8/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/slavah8/leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3822-design-order-management-system](https://github.com/slavah8/leetcode/tree/master/3822-design-order-management-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/slavah8/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3905-partition-string](https://github.com/slavah8/leetcode/tree/master/3905-partition-string) |
 | [4045-longest-balanced-subarray-i](https://github.com/slavah8/leetcode/tree/master/4045-longest-balanced-subarray-i) |
@@ -2580,6 +2581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-design-a-todo-list](https://github.com/slavah8/leetcode/tree/master/2590-design-a-todo-list) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/slavah8/leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3242-design-neighbor-sum-service](https://github.com/slavah8/leetcode/tree/master/3242-design-neighbor-sum-service) |
+| [3822-design-order-management-system](https://github.com/slavah8/leetcode/tree/master/3822-design-order-management-system) |
 ## Math
 |  |
 | ------- |
