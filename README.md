@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-largest-1-bordered-square](https://github.com/slavah8/leetcode/tree/master/1239-largest-1-bordered-square) |
 | [1242-matrix-block-sum](https://github.com/slavah8/leetcode/tree/master/1242-matrix-block-sum) |
 | [1243-array-transformation](https://github.com/slavah8/leetcode/tree/master/1243-array-transformation) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1260-shift-2d-grid](https://github.com/slavah8/leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/slavah8/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -2646,6 +2647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/slavah8/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/slavah8/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/slavah8/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/slavah8/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1362-airplane-seat-assignment-probability](https://github.com/slavah8/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
@@ -2877,6 +2879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/slavah8/leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1243-array-transformation](https://github.com/slavah8/leetcode/tree/master/1243-array-transformation) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/slavah8/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/slavah8/leetcode/tree/master/1260-shift-2d-grid) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/slavah8/leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1562-find-latest-group-of-size-m](https://github.com/slavah8/leetcode/tree/master/1562-find-latest-group-of-size-m) |
