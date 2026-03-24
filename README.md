@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/slavah8/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [0983-minimum-cost-for-tickets](https://github.com/slavah8/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0985-bag-of-tokens](https://github.com/slavah8/leetcode/tree/master/0985-bag-of-tokens) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/slavah8/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-largest-time-for-given-digits](https://github.com/slavah8/leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/slavah8/leetcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
@@ -2874,6 +2875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0723-candy-crush](https://github.com/slavah8/leetcode/tree/master/0723-candy-crush) |
 | [0874-backspace-string-compare](https://github.com/slavah8/leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/slavah8/leetcode/tree/master/0898-transpose-matrix) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/slavah8/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0999-available-captures-for-rook](https://github.com/slavah8/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1184-car-pooling](https://github.com/slavah8/leetcode/tree/master/1184-car-pooling) |
 | [1195-distribute-candies-to-people](https://github.com/slavah8/leetcode/tree/master/1195-distribute-candies-to-people) |
