@@ -977,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-synonymous-sentences](https://github.com/slavah8/leetcode/tree/master/1258-synonymous-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/slavah8/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/slavah8/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/slavah8/leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1321-get-equal-substrings-within-budget](https://github.com/slavah8/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -1881,6 +1882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/slavah8/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/slavah8/leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/slavah8/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/slavah8/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/slavah8/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/slavah8/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/slavah8/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -3206,6 +3208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-longest-duplicate-substring](https://github.com/slavah8/leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1138-grumpy-bookstore-owner](https://github.com/slavah8/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1286-constrained-subsequence-sum](https://github.com/slavah8/leetcode/tree/master/1286-constrained-subsequence-sum) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/slavah8/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/slavah8/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/slavah8/leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/slavah8/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
