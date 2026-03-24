@@ -1588,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/slavah8/leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/slavah8/leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1686,6 +1687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/slavah8/leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 | [3493-properties-graph](https://github.com/slavah8/leetcode/tree/master/3493-properties-graph) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/slavah8/leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Graph
 |  |
 | ------- |
@@ -2114,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3497-find-the-last-marked-nodes-in-tree](https://github.com/slavah8/leetcode/tree/master/3497-find-the-last-marked-nodes-in-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/slavah8/leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/slavah8/leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2196,6 +2199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-height-of-special-binary-tree](https://github.com/slavah8/leetcode/tree/master/2944-height-of-special-binary-tree) |
 | [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/slavah8/leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/slavah8/leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Greedy
 |  |
 | ------- |
@@ -2321,6 +2325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/slavah8/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1729-binary-search-tree-iterator-ii](https://github.com/slavah8/leetcode/tree/master/1729-binary-search-tree-iterator-ii) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/slavah8/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/slavah8/leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Union Find
 |  |
 | ------- |
