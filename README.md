@@ -3682,6 +3682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-invalid-tweets-ii](https://github.com/slavah8/leetcode/tree/master/3150-invalid-tweets-ii) |
 | [3259-binary-tree-nodes](https://github.com/slavah8/leetcode/tree/master/3259-binary-tree-nodes) |
 | [3358-books-with-null-ratings](https://github.com/slavah8/leetcode/tree/master/3358-books-with-null-ratings) |
+| [3475-dna-pattern-recognition](https://github.com/slavah8/leetcode/tree/master/3475-dna-pattern-recognition) |
 | [3570-find-books-with-no-available-copies](https://github.com/slavah8/leetcode/tree/master/3570-find-books-with-no-available-copies) |
 ## Monotonic Queue
 |  |
