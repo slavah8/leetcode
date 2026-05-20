@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/slavah8/leetcode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/slavah8/leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2664-maximize-greatness-of-an-array](https://github.com/slavah8/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2664-the-knights-tour](https://github.com/slavah8/leetcode/tree/master/2664-the-knights-tour) |
@@ -1966,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/slavah8/leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/slavah8/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/slavah8/leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2667-maximum-frequency-score-of-a-subarray](https://github.com/slavah8/leetcode/tree/master/2667-maximum-frequency-score-of-a-subarray) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/slavah8/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -3467,6 +3469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-minimum-time-to-kill-all-monsters](https://github.com/slavah8/leetcode/tree/master/2537-minimum-time-to-kill-all-monsters) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/slavah8/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/slavah8/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/slavah8/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2708-maximum-strength-of-a-group](https://github.com/slavah8/leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2848-special-permutations](https://github.com/slavah8/leetcode/tree/master/2848-special-permutations) |
 | [2905-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/slavah8/leetcode/tree/master/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
